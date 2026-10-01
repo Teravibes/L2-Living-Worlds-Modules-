@@ -1,0 +1,9 @@
+{
+  "id": "buff-limits",
+  "name": "Buff Limits",
+  "version": "1.2.0",
+  "apiVersion": "1",
+  "entrypoint": "modules.bufflimits.BuffLimitsModule",
+  "description": "Sets 2-hour durations on buffer-NPC buffs and on perma-uptime class self buffs like War Cry. Burst skills such as Frenzy are untouched. Applied in memory at startup; no files edited.",
+  "author": "Sateriok"
+}

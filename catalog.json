@@ -1,1 +1,20 @@
-[]
+[
+  {
+    "id": "buff-limits",
+    "folder": "buff-limits",
+    "name": "Buff Limits",
+    "version": "1.2.0",
+    "author": "Sateriok",
+    "apiVersion": "1",
+    "description": "Sets 2-hour durations on buffer-NPC buffs and on perma-uptime class self buffs like War Cry. Burst skills such as Frenzy are untouched. Applied in memory at startup; no files edited."
+  },
+  {
+    "id": "preset-buffer",
+    "folder": "preset-buffer",
+    "name": "Preset Buffer",
+    "version": "1.0.0",
+    "author": "Sateriok",
+    "apiVersion": "1",
+    "description": "Adds a Giran NPC that gives a full fighter or mage buff preset in one click."
+  }
+]

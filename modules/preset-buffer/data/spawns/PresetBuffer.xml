@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true">
+	<!-- Giran town. To move him: stand where you want, type /loc in game, then edit x y z heading. -->
+	<spawn name="PresetBufferGiran">
+		<npc id="59900" x="83688" y="148379" z="-3400" heading="32767" respawnDelay="60" /> <!-- Seraphine, Preset Buffer -->
+	</spawn>
+</list>
