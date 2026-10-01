@@ -1,0 +1,13 @@
+-- Optional additive tables for the Example Module.
+-- Must be idempotent: the platform runs this on every enable, before the module's
+-- code, so its tables exist when onEnable runs. Use CREATE TABLE IF NOT EXISTS.
+-- Namespace table names so they cannot collide with the base game or other modules.
+--
+-- Delete this file if the module needs no database tables, and remove the
+-- "database" block from module.json.
+
+-- CREATE TABLE IF NOT EXISTS example_module_data (
+--     char_id   INT UNSIGNED NOT NULL,
+--     value     INT NOT NULL DEFAULT 0,
+--     PRIMARY KEY (char_id)
+-- );

@@ -1,0 +1,3 @@
+# Approved modules live here, one folder per module: modules/<module-id>/
+# This file just keeps the empty directory in git. It can be removed once the
+# first module is published.

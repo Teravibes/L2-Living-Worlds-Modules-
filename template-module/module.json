@@ -1,0 +1,15 @@
+{
+  "id": "example-module",
+  "name": "Example Module",
+  "version": "1.0.0",
+  "apiVersion": "1",
+  "entrypoint": "modules.examplemodule.ExampleModule",
+  "description": "A one-line summary of what the module does.",
+  "author": "Author Name",
+  "priority": 100,
+  "dependencies": [],
+  "conflicts": [],
+  "resources": {},
+  "reserves": {},
+  "database": {}
+}
