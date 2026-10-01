@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true">
+	<!-- The same 16 locations the stock Class Master script uses. Giran is the first entry.
+	     To move one: stand where you want it, type /loc in game, and edit x y z heading. -->
+	<spawn name="ClassMaster">
+		<npc id="59910" x="83076" y="147912" z="-3467" heading="32000" respawnDelay="60" /> <!-- Giran -->
+		<npc id="59910" x="110592" y="220400" z="-3667" heading="0" respawnDelay="60" />
+		<npc id="59910" x="11132" y="17655" z="-4568" heading="54788" respawnDelay="60" />
+		<npc id="59910" x="114880" y="-178144" z="-827" heading="0" respawnDelay="60" />
+		<npc id="59910" x="117200" y="75824" z="-2725" heading="25000" respawnDelay="60" />
+		<npc id="59910" x="-14064" y="124640" z="-3120" heading="32767" respawnDelay="60" />
+		<npc id="59910" x="147728" y="27408" z="-2198" heading="16500" respawnDelay="60" />
+		<npc id="59910" x="148560" y="-57952" z="-2974" heading="53000" respawnDelay="60" />
+		<npc id="59910" x="15584" y="142784" z="-2699" heading="16500" respawnDelay="60" />
+		<npc id="59910" x="17956" y="170536" z="-3499" heading="48000" respawnDelay="60" />
+		<npc id="59910" x="44176" y="-48732" z="-800" heading="33000" respawnDelay="60" />
+		<npc id="59910" x="-45026" y="-113560" z="-192" heading="31822" respawnDelay="60" />
+		<npc id="59910" x="47648" y="51296" z="-2989" heading="38500" respawnDelay="60" />
+		<npc id="59910" x="81136" y="54576" z="-1517" heading="32000" respawnDelay="60" />
+		<npc id="59910" x="-81630" y="150177" z="-3120" heading="16383" respawnDelay="60" />
+		<npc id="59910" x="-84460" y="243165" z="-3728" heading="25154" respawnDelay="60" />
+	</spawn>
+</list>

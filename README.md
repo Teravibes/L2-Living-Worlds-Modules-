@@ -16,6 +16,7 @@ No server rebuild is needed to turn a feature on or off, only a restart.
 | Module | Version | Author | Description |
 |---|---|---|---|
 | [Buff Limits](modules/buff-limits) | 1.2.0 | Sateriok | Sets 2-hour durations on buffer-NPC buffs and on perma-uptime class self buffs like War Cry. Burst skills such as Frenzy are untouched. Applied in memory at startup; no files edited. |
+| [Class Master](modules/class-master) | 1.0.0 | Sateriok | Adds a class master NPC that changes a player's profession at levels 20, 40 and 76, with an adena price for each change. |
 | [Preset Buffer](modules/preset-buffer) | 1.0.0 | Sateriok | Adds a Giran NPC that gives a full fighter or mage buff preset in one click. |
 
 <!-- CATALOG:END -->

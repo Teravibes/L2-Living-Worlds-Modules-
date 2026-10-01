@@ -1,0 +1,17 @@
+{
+  "id": "class-master",
+  "name": "Class Master",
+  "version": "1.0.0",
+  "apiVersion": "1",
+  "entrypoint": "modules.classmaster.ClassMasterModule",
+  "description": "Adds a class master NPC that changes a player's profession at levels 20, 40 and 76, with an adena price for each change.",
+  "author": "Sateriok",
+  "priority": 100,
+  "resources": {
+    "npcs": ["data/npcs"],
+    "spawns": ["data/spawns"]
+  },
+  "reserves": {
+    "npcs": [[59910, 59919]]
+  }
+}
