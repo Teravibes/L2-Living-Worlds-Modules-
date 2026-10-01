@@ -1,0 +1,117 @@
+name: Announce release on Discord
+
+# Posts a message to a Discord channel (via webhook) whenever a release is
+# published. It reads the module name, version, and creator from the module's
+# module.json so the credit matches what the author declared.
+#
+# Setup (one time):
+#   1. In the Discord channel you want, create a webhook:
+#      Channel settings > Integrations > Webhooks > New Webhook, then Copy URL.
+#   2. In this repo: Settings > Secrets and variables > Actions > New repository
+#      secret, named DISCORD_RELEASE_WEBHOOK, pasted with the webhook URL.
+#
+# It expects release tags shaped like "<module-id>-v<version>", for example
+# "buff-limits-v1.2.0", so it can find modules/<module-id>/module.json.
+
+on:
+  release:
+    types: [published]
+
+permissions:
+  contents: read
+
+jobs:
+  announce:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out the repository
+        uses: actions/checkout@v4
+
+      - name: Build and send the Discord message
+        env:
+          WEBHOOK: ${{ secrets.DISCORD_RELEASE_WEBHOOK }}
+        run: |
+          set -euo pipefail
+
+          if [ -z "${WEBHOOK:-}" ]; then
+            echo "DISCORD_RELEASE_WEBHOOK secret is not set; skipping the announcement."
+            exit 0
+          fi
+
+          # Read the release from the event payload (avoids any string injection
+          # from the release body into the shell).
+          TAG=$(jq -r '.release.tag_name // ""' "$GITHUB_EVENT_PATH")
+          REL_URL=$(jq -r '.release.html_url // ""' "$GITHUB_EVENT_PATH")
+          REL_NAME=$(jq -r '.release.name // ""' "$GITHUB_EVENT_PATH")
+          ZIP_URL=$(jq -r '.release.assets[0].browser_download_url // ""' "$GITHUB_EVENT_PATH")
+          ZIP_NAME=$(jq -r '.release.assets[0].name // ""' "$GITHUB_EVENT_PATH")
+
+          # Derive the module id by stripping a trailing -vX.Y.Z from the tag.
+          MODULE_ID=$(printf '%s' "$TAG" | sed -E 's/-v[0-9]+\.[0-9]+\.[0-9]+$//')
+          MANIFEST="modules/${MODULE_ID}/module.json"
+
+          if [ -f "$MANIFEST" ]; then
+            NAME=$(jq -r '.name // ""' "$MANIFEST")
+            AUTHOR=$(jq -r '.author // "Unknown"' "$MANIFEST")
+            VERSION=$(jq -r '.version // ""' "$MANIFEST")
+            DESC=$(jq -r '.description // ""' "$MANIFEST")
+          else
+            echo "No manifest at $MANIFEST; falling back to the release fields."
+            NAME="${REL_NAME:-$TAG}"
+            AUTHOR="Unknown"
+            VERSION=""
+            DESC=""
+          fi
+
+          # Fallbacks so the post always reads cleanly.
+          [ -n "$NAME" ] || NAME="${REL_NAME:-$TAG}"
+          TITLE="$NAME"
+          [ -n "$VERSION" ] && TITLE="$NAME $VERSION"
+          TITLE="$TITLE released"
+
+          if [ -n "$ZIP_URL" ]; then
+            DOWNLOAD="[${ZIP_NAME}](${ZIP_URL})"
+          else
+            DOWNLOAD="[View the release](${REL_URL})"
+          fi
+
+          # Build the payload with jq so every value is safely JSON-encoded, and
+          # disable all mentions so a description can never ping @everyone.
+          PAYLOAD=$(jq -n \
+            --arg title "$TITLE" \
+            --arg desc "$DESC" \
+            --arg url "$REL_URL" \
+            --arg author "$AUTHOR" \
+            --arg module "${MODULE_ID:-unknown}" \
+            --arg download "$DOWNLOAD" \
+            '{
+              content: "A new module has been released.",
+              allowed_mentions: { parse: [] },
+              embeds: [
+                {
+                  title: $title,
+                  description: $desc,
+                  url: $url,
+                  color: 3066993,
+                  fields: [
+                    { name: "Creator", value: $author, inline: true },
+                    { name: "Module", value: $module, inline: true },
+                    { name: "Download", value: $download, inline: false }
+                  ],
+                  footer: { text: "L2 Living Worlds Modules" }
+                }
+              ]
+            }')
+
+          CODE=$(curl -sS -o /tmp/discord_resp.txt -w '%{http_code}' \
+            -H "Content-Type: application/json" \
+            -X POST "$WEBHOOK" \
+            -d "$PAYLOAD")
+
+          echo "Discord responded with HTTP $CODE"
+          if [ "$CODE" -lt 200 ] || [ "$CODE" -ge 300 ]; then
+            echo "Webhook post failed:"
+            cat /tmp/discord_resp.txt || true
+            exit 1
+          fi
+          echo "Announcement posted."
