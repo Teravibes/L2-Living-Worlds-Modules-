@@ -1,0 +1,9 @@
+{
+  "id": "bot-summon",
+  "name": "Bot Summon Menus",
+  "version": "1.0.0",
+  "apiVersion": "1",
+  "entrypoint": "modules.botsummon.BotSummonModule",
+  "description": "Three voiced menus (.lfclass, .lfrole, .lfbuff) that shout LF for one bot at a time.",
+  "author": "justneedair"
+}

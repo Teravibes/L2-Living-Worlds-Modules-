@@ -9,6 +9,15 @@
     "description": "HTML menu that sends party-chat commands to Living World phantoms when a button is pressed"
   },
   {
+    "id": "bot-summon",
+    "folder": "bot-summon",
+    "name": "Bot Summon Menus",
+    "version": "1.0.0",
+    "author": "justneedair",
+    "apiVersion": "1",
+    "description": "Three voiced menus (.lfclass, .lfrole, .lfbuff) that shout LF for one bot at a time."
+  },
+  {
     "id": "buff-limits",
     "folder": "buff-limits",
     "name": "Buff Limits",
