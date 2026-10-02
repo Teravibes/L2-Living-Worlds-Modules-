@@ -1,0 +1,2039 @@
+# Shop stock: Path|ItemId|Price
+# The path is the menu the player clicks through, with / between steps: Weapons/D Grade
+# Every path that has items opens its own buy window. Price is Adena per item (before PricePercent).
+# Prices come from the server's item files. Lines starting with # are ignored.
+
+Weapons/No Grade|6|138
+Weapons/No Grade|10|138
+Weapons/No Grade|2368|138
+Weapons/No Grade|2369|138
+Weapons/No Grade|2370|138
+Weapons/No Grade|1|768
+Weapons/No Grade|4|768
+Weapons/No Grade|7|768
+Weapons/No Grade|11|768
+Weapons/No Grade|13|768
+Weapons/No Grade|253|768
+Weapons/No Grade|748|4990
+Weapons/No Grade|152|8070
+Weapons/No Grade|3|12500
+Weapons/No Grade|5|12500
+Weapons/No Grade|8|12500
+Weapons/No Grade|12|12500
+Weapons/No Grade|14|12500
+Weapons/No Grade|215|12500
+Weapons/No Grade|254|12500
+Weapons/No Grade|153|18500
+Weapons/No Grade|738|18500
+Weapons/No Grade|747|25500
+Weapons/No Grade|754|25500
+Weapons/No Grade|981|25500
+Weapons/No Grade|989|25500
+Weapons/No Grade|1510|25500
+Weapons/No Grade|1511|25500
+Weapons/No Grade|2371|25500
+Weapons/No Grade|2372|25500
+Weapons/No Grade|2373|25500
+Weapons/No Grade|2374|25500
+Weapons/No Grade|743|33600
+Weapons/No Grade|744|33600
+Weapons/No Grade|975|33600
+Weapons/No Grade|9|54100
+Weapons/No Grade|66|54100
+Weapons/No Grade|67|54100
+Weapons/No Grade|122|54100
+Weapons/No Grade|154|54100
+Weapons/No Grade|216|54100
+Weapons/No Grade|255|54100
+Weapons/No Grade|271|54100
+Weapons/No Grade|1333|54100
+Weapons/No Grade|3028|54100
+Weapons/No Grade|3029|54100
+Weapons/No Grade|946|66600
+Weapons/No Grade|1295|66600
+Weapons/No Grade|1296|66600
+Weapons/No Grade|1297|66600
+Weapons/No Grade|1298|66600
+Weapons/No Grade|1300|66600
+Weapons/No Grade|1301|66600
+Weapons/No Grade|1302|66600
+Weapons/No Grade|1303|66600
+Weapons/No Grade|1304|66600
+Weapons/No Grade|1305|66600
+Weapons/No Grade|1306|66600
+Weapons/No Grade|1142|116000
+Weapons/No Grade|2|136000
+Weapons/No Grade|15|136000
+Weapons/No Grade|120|136000
+Weapons/No Grade|121|136000
+Weapons/No Grade|176|136000
+Weapons/No Grade|217|136000
+Weapons/No Grade|218|136000
+Weapons/No Grade|256|136000
+Weapons/No Grade|272|136000
+Weapons/No Grade|1213|136000
+Weapons/No Grade|2501|136000
+Weapons/No Grade|2915|136000
+Weapons/No Grade|3026|136000
+Weapons/No Grade|3027|136000
+Weapons/No Grade|16|244000
+Weapons/No Grade|68|244000
+Weapons/No Grade|87|244000
+Weapons/No Grade|155|244000
+Weapons/No Grade|177|244000
+Weapons/No Grade|219|244000
+Weapons/No Grade|257|244000
+Weapons/No Grade|273|244000
+Weapons/No Grade|4219|244000
+Weapons/No Grade|4220|244000
+Weapons/No Grade|4221|244000
+Weapons/No Grade|5284|244000
+Weapons/No Grade|1307|3340000
+Weapons/D Grade/Swords|123|409000
+Weapons/D Grade/Swords|5285|409000
+Weapons/D Grade/Swords|7880|409500
+Weapons/D Grade/Swords|7885|409500
+Weapons/D Grade/Swords|69|644000
+Weapons/D Grade/Swords|125|644000
+Weapons/D Grade/Swords|126|644000
+Weapons/D Grade/Swords|128|644000
+Weapons/D Grade/Swords|83|716000
+Weapons/D Grade/Swords|143|716000
+Weapons/D Grade/Swords|144|716000
+Weapons/D Grade/Swords|124|967000
+Weapons/D Grade/Swords|127|967000
+Weapons/D Grade/Swords|130|967000
+Weapons/D Grade/Swords|7881|1396200
+Weapons/D Grade/Swords|7886|1396200
+Weapons/D Grade/Swords|129|1400000
+Weapons/D Grade/Swords|70|1800000
+Weapons/D Grade/Swords|2499|1800000
+Weapons/D Grade/Blunt Weapons|156|409000
+Weapons/D Grade/Blunt Weapons|166|409000
+Weapons/D Grade/Blunt Weapons|167|409000
+Weapons/D Grade/Blunt Weapons|168|409000
+Weapons/D Grade/Blunt Weapons|178|409000
+Weapons/D Grade/Blunt Weapons|86|644000
+Weapons/D Grade/Blunt Weapons|179|644000
+Weapons/D Grade/Blunt Weapons|180|644000
+Weapons/D Grade/Blunt Weapons|181|644000
+Weapons/D Grade/Blunt Weapons|182|644000
+Weapons/D Grade/Blunt Weapons|183|644000
+Weapons/D Grade/Blunt Weapons|184|644000
+Weapons/D Grade/Blunt Weapons|185|644000
+Weapons/D Grade/Blunt Weapons|157|967000
+Weapons/D Grade/Blunt Weapons|186|967000
+Weapons/D Grade/Blunt Weapons|7890|1396200
+Weapons/D Grade/Blunt Weapons|7896|1396200
+Weapons/D Grade/Blunt Weapons|88|1400000
+Weapons/D Grade/Blunt Weapons|90|1400000
+Weapons/D Grade/Blunt Weapons|158|1400000
+Weapons/D Grade/Blunt Weapons|169|1400000
+Weapons/D Grade/Blunt Weapons|172|1400000
+Weapons/D Grade/Blunt Weapons|159|1800000
+Weapons/D Grade/Blunt Weapons|187|1800000
+Weapons/D Grade/Blunt Weapons|188|1800000
+Weapons/D Grade/Blunt Weapons|189|1800000
+Weapons/D Grade/Blunt Weapons|190|1800000
+Weapons/D Grade/Polearms|291|409000
+Weapons/D Grade/Polearms|1376|409000
+Weapons/D Grade/Polearms|292|644000
+Weapons/D Grade/Polearms|295|644000
+Weapons/D Grade/Polearms|293|967000
+Weapons/D Grade/Polearms|296|967000
+Weapons/D Grade/Polearms|93|1400000
+Weapons/D Grade/Polearms|294|1400000
+Weapons/D Grade/Polearms|297|1800000
+Weapons/D Grade/Daggers|220|409000
+Weapons/D Grade/Daggers|221|409000
+Weapons/D Grade/Daggers|2507|409000
+Weapons/D Grade/Daggers|222|644000
+Weapons/D Grade/Daggers|223|967000
+Weapons/D Grade/Daggers|238|967000
+Weapons/D Grade/Daggers|239|967000
+Weapons/D Grade/Daggers|240|967000
+Weapons/D Grade/Daggers|241|967000
+Weapons/D Grade/Daggers|224|1400000
+Weapons/D Grade/Daggers|1660|1400000
+Weapons/D Grade/Daggers|225|1800000
+Weapons/D Grade/Fist Weapons|258|409000
+Weapons/D Grade/Fist Weapons|259|644000
+Weapons/D Grade/Fist Weapons|260|967000
+Weapons/D Grade/Fist Weapons|261|1400000
+Weapons/D Grade/Fist Weapons|262|1800000
+Weapons/D Grade/Bows|274|409000
+Weapons/D Grade/Bows|275|644000
+Weapons/D Grade/Bows|276|644000
+Weapons/D Grade/Bows|277|644000
+Weapons/D Grade/Bows|278|967000
+Weapons/D Grade/Bows|279|1400000
+Weapons/D Grade/Bows|280|1800000
+Weapons/D Grade/Dual Swords|2516|877000
+Weapons/D Grade/Dual Swords|2517|1060000
+Weapons/D Grade/Dual Swords|2518|1060000
+Weapons/D Grade/Dual Swords|2519|1060000
+Weapons/D Grade/Dual Swords|2520|1060000
+Weapons/D Grade/Dual Swords|2521|1400000
+Weapons/D Grade/Dual Swords|2522|1400000
+Weapons/D Grade/Dual Swords|2525|1400000
+Weapons/D Grade/Dual Swords|2526|1400000
+Weapons/D Grade/Dual Swords|2527|1400000
+Weapons/D Grade/Dual Swords|2528|1400000
+Weapons/D Grade/Dual Swords|2533|1400000
+Weapons/D Grade/Dual Swords|2534|1400000
+Weapons/D Grade/Dual Swords|2535|1400000
+Weapons/D Grade/Dual Swords|2540|1400000
+Weapons/D Grade/Dual Swords|2541|1400000
+Weapons/D Grade/Dual Swords|2546|1400000
+Weapons/D Grade/Dual Swords|2529|1660000
+Weapons/D Grade/Dual Swords|2530|1660000
+Weapons/D Grade/Dual Swords|2536|1660000
+Weapons/D Grade/Dual Swords|2537|1660000
+Weapons/D Grade/Dual Swords|2542|1660000
+Weapons/D Grade/Dual Swords|2543|1660000
+Weapons/D Grade/Dual Swords|2547|1660000
+Weapons/D Grade/Dual Swords|2548|1660000
+Weapons/C Grade/Swords|71|2290000
+Weapons/C Grade/Swords|72|2290000
+Weapons/C Grade/Swords|4681|2290000
+Weapons/C Grade/Swords|4682|2290000
+Weapons/C Grade/Swords|4683|2290000
+Weapons/C Grade/Swords|4711|2290000
+Weapons/C Grade/Swords|4712|2290000
+Weapons/C Grade/Swords|4713|2290000
+Weapons/C Grade/Swords|7887|2291770
+Weapons/C Grade/Swords|8111|2291770
+Weapons/C Grade/Swords|8112|2291770
+Weapons/C Grade/Swords|8113|2291770
+Weapons/C Grade/Swords|73|2870000
+Weapons/C Grade/Swords|74|2870000
+Weapons/C Grade/Swords|131|2870000
+Weapons/C Grade/Swords|133|2870000
+Weapons/C Grade/Swords|4684|2870000
+Weapons/C Grade/Swords|4685|2870000
+Weapons/C Grade/Swords|4686|2870000
+Weapons/C Grade/Swords|4687|2870000
+Weapons/C Grade/Swords|4688|2870000
+Weapons/C Grade/Swords|4689|2870000
+Weapons/C Grade/Swords|4690|2870000
+Weapons/C Grade/Swords|4691|2870000
+Weapons/C Grade/Swords|4692|2870000
+Weapons/C Grade/Swords|4693|2870000
+Weapons/C Grade/Swords|4694|2870000
+Weapons/C Grade/Swords|4695|2870000
+Weapons/C Grade/Swords|7882|4295590
+Weapons/C Grade/Swords|8102|4295590
+Weapons/C Grade/Swords|8103|4295590
+Weapons/C Grade/Swords|8104|4295590
+Weapons/C Grade/Swords|75|4300000
+Weapons/C Grade/Swords|76|4300000
+Weapons/C Grade/Swords|77|4300000
+Weapons/C Grade/Swords|84|4300000
+Weapons/C Grade/Swords|132|4300000
+Weapons/C Grade/Swords|134|4300000
+Weapons/C Grade/Swords|145|4300000
+Weapons/C Grade/Swords|4696|4300000
+Weapons/C Grade/Swords|4697|4300000
+Weapons/C Grade/Swords|4698|4300000
+Weapons/C Grade/Swords|4699|4300000
+Weapons/C Grade/Swords|4700|4300000
+Weapons/C Grade/Swords|4701|4300000
+Weapons/C Grade/Swords|4702|4300000
+Weapons/C Grade/Swords|4703|4300000
+Weapons/C Grade/Swords|4704|4300000
+Weapons/C Grade/Swords|4705|4300000
+Weapons/C Grade/Swords|4706|4300000
+Weapons/C Grade/Swords|4707|4300000
+Weapons/C Grade/Swords|6307|4300000
+Weapons/C Grade/Swords|6308|4300000
+Weapons/C Grade/Swords|6309|4300000
+Weapons/C Grade/Swords|6310|4300000
+Weapons/C Grade/Swords|6311|4300000
+Weapons/C Grade/Swords|6312|4300000
+Weapons/C Grade/Swords|6313|4300000
+Weapons/C Grade/Swords|6314|4300000
+Weapons/C Grade/Swords|6315|4300000
+Weapons/C Grade/Swords|7888|6127550
+Weapons/C Grade/Swords|8114|6127550
+Weapons/C Grade/Swords|8115|6127550
+Weapons/C Grade/Swords|8116|6127550
+Weapons/C Grade/Swords|135|6130000
+Weapons/C Grade/Swords|4708|6130000
+Weapons/C Grade/Swords|4709|6130000
+Weapons/C Grade/Swords|4710|6130000
+Weapons/C Grade/Swords|5286|6130000
+Weapons/C Grade/Swords|6347|6130000
+Weapons/C Grade/Swords|6348|6130000
+Weapons/C Grade/Swords|6349|6130000
+Weapons/C Grade/Blunt Weapons|89|2290000
+Weapons/C Grade/Blunt Weapons|160|2290000
+Weapons/C Grade/Blunt Weapons|161|2290000
+Weapons/C Grade/Blunt Weapons|173|2290000
+Weapons/C Grade/Blunt Weapons|191|2290000
+Weapons/C Grade/Blunt Weapons|192|2290000
+Weapons/C Grade/Blunt Weapons|193|2290000
+Weapons/C Grade/Blunt Weapons|194|2290000
+Weapons/C Grade/Blunt Weapons|195|2870000
+Weapons/C Grade/Blunt Weapons|2502|2870000
+Weapons/C Grade/Blunt Weapons|7898|4295590
+Weapons/C Grade/Blunt Weapons|162|4300000
+Weapons/C Grade/Blunt Weapons|174|4300000
+Weapons/C Grade/Blunt Weapons|196|4300000
+Weapons/C Grade/Blunt Weapons|197|4300000
+Weapons/C Grade/Blunt Weapons|198|4300000
+Weapons/C Grade/Blunt Weapons|199|4300000
+Weapons/C Grade/Blunt Weapons|200|4300000
+Weapons/C Grade/Blunt Weapons|201|4300000
+Weapons/C Grade/Blunt Weapons|202|4300000
+Weapons/C Grade/Blunt Weapons|203|4780000
+Weapons/C Grade/Blunt Weapons|7891|6127550
+Weapons/C Grade/Blunt Weapons|7897|6127550
+Weapons/C Grade/Blunt Weapons|204|6130000
+Weapons/C Grade/Blunt Weapons|205|6130000
+Weapons/C Grade/Blunt Weapons|206|6130000
+Weapons/C Grade/Blunt Weapons|2503|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4726|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4727|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4728|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4729|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4730|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4731|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4732|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4733|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4734|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4735|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4736|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4737|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4864|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4865|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4866|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4867|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4868|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4869|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4870|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4871|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4872|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7701|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7702|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7703|2290000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4738|2870000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4739|2870000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4740|2870000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4873|2870000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4874|2870000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4875|2870000
+Weapons/C Grade/Blunt Weapons (Special Ability)|8123|4295590
+Weapons/C Grade/Blunt Weapons (Special Ability)|8124|4295590
+Weapons/C Grade/Blunt Weapons (Special Ability)|8125|4295590
+Weapons/C Grade/Blunt Weapons (Special Ability)|4741|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4742|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4743|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4876|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4877|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4878|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4879|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4880|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4881|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4882|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4883|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4884|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7704|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7705|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7706|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7707|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7708|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7709|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7710|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7711|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7712|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7713|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7714|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7715|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7716|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7717|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|7718|4300000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4885|4780000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4886|4780000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4887|4780000
+Weapons/C Grade/Blunt Weapons (Special Ability)|8120|6127550
+Weapons/C Grade/Blunt Weapons (Special Ability)|8121|6127550
+Weapons/C Grade/Blunt Weapons (Special Ability)|8122|6127550
+Weapons/C Grade/Blunt Weapons (Special Ability)|8138|6127550
+Weapons/C Grade/Blunt Weapons (Special Ability)|8139|6127550
+Weapons/C Grade/Blunt Weapons (Special Ability)|8140|6127550
+Weapons/C Grade/Blunt Weapons (Special Ability)|4744|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4745|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4746|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4888|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4889|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4890|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4891|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4892|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4893|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4894|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4895|6130000
+Weapons/C Grade/Blunt Weapons (Special Ability)|4896|6130000
+Weapons/C Grade/Polearms|96|2290000
+Weapons/C Grade/Polearms|298|2290000
+Weapons/C Grade/Polearms|302|2290000
+Weapons/C Grade/Polearms|4834|2290000
+Weapons/C Grade/Polearms|4835|2290000
+Weapons/C Grade/Polearms|4836|2290000
+Weapons/C Grade/Polearms|4837|2290000
+Weapons/C Grade/Polearms|4838|2290000
+Weapons/C Grade/Polearms|4839|2290000
+Weapons/C Grade/Polearms|4840|2290000
+Weapons/C Grade/Polearms|4841|2290000
+Weapons/C Grade/Polearms|4842|2290000
+Weapons/C Grade/Polearms|94|2870000
+Weapons/C Grade/Polearms|4843|2870000
+Weapons/C Grade/Polearms|4844|2870000
+Weapons/C Grade/Polearms|4845|2870000
+Weapons/C Grade/Polearms|95|4300000
+Weapons/C Grade/Polearms|7719|4300000
+Weapons/C Grade/Polearms|7720|4300000
+Weapons/C Grade/Polearms|7721|4300000
+Weapons/C Grade/Polearms|301|4780000
+Weapons/C Grade/Polearms|303|4780000
+Weapons/C Grade/Polearms|4846|4780000
+Weapons/C Grade/Polearms|4847|4780000
+Weapons/C Grade/Polearms|4848|4780000
+Weapons/C Grade/Polearms|4849|4780000
+Weapons/C Grade/Polearms|4850|4780000
+Weapons/C Grade/Polearms|4851|4780000
+Weapons/C Grade/Polearms|299|6130000
+Weapons/C Grade/Polearms|4852|6130000
+Weapons/C Grade/Polearms|4853|6130000
+Weapons/C Grade/Polearms|4854|6130000
+Weapons/C Grade/Daggers|226|2290000
+Weapons/C Grade/Daggers|232|2290000
+Weapons/C Grade/Daggers|4759|2290000
+Weapons/C Grade/Daggers|4760|2290000
+Weapons/C Grade/Daggers|4761|2290000
+Weapons/C Grade/Daggers|4762|2290000
+Weapons/C Grade/Daggers|4763|2290000
+Weapons/C Grade/Daggers|4764|2290000
+Weapons/C Grade/Daggers|6356|2290000
+Weapons/C Grade/Daggers|227|2870000
+Weapons/C Grade/Daggers|242|2870000
+Weapons/C Grade/Daggers|4765|2870000
+Weapons/C Grade/Daggers|4766|2870000
+Weapons/C Grade/Daggers|4767|2870000
+Weapons/C Grade/Daggers|6357|2870000
+Weapons/C Grade/Daggers|7810|2870000
+Weapons/C Grade/Daggers|7811|2870000
+Weapons/C Grade/Daggers|7812|2870000
+Weapons/C Grade/Daggers|231|4300000
+Weapons/C Grade/Daggers|233|4300000
+Weapons/C Grade/Daggers|4768|4300000
+Weapons/C Grade/Daggers|4769|4300000
+Weapons/C Grade/Daggers|4770|4300000
+Weapons/C Grade/Daggers|4771|4300000
+Weapons/C Grade/Daggers|4772|4300000
+Weapons/C Grade/Daggers|4773|4300000
+Weapons/C Grade/Daggers|228|6130000
+Weapons/C Grade/Daggers|4774|6130000
+Weapons/C Grade/Daggers|4775|6130000
+Weapons/C Grade/Daggers|4776|6130000
+Weapons/C Grade/Daggers|6358|6130000
+Weapons/C Grade/Fist Weapons|263|2290000
+Weapons/C Grade/Fist Weapons|4789|2290000
+Weapons/C Grade/Fist Weapons|4790|2290000
+Weapons/C Grade/Fist Weapons|4791|2290000
+Weapons/C Grade/Fist Weapons|4233|2870000
+Weapons/C Grade/Fist Weapons|4798|2870000
+Weapons/C Grade/Fist Weapons|4799|2870000
+Weapons/C Grade/Fist Weapons|4800|2870000
+Weapons/C Grade/Fist Weapons|265|4300000
+Weapons/C Grade/Fist Weapons|4792|4300000
+Weapons/C Grade/Fist Weapons|4793|4300000
+Weapons/C Grade/Fist Weapons|4794|4300000
+Weapons/C Grade/Fist Weapons|266|6130000
+Weapons/C Grade/Fist Weapons|4795|6130000
+Weapons/C Grade/Fist Weapons|4796|6130000
+Weapons/C Grade/Fist Weapons|4797|6130000
+Weapons/C Grade/Bows|281|2290000
+Weapons/C Grade/Bows|4810|2290000
+Weapons/C Grade/Bows|4811|2290000
+Weapons/C Grade/Bows|4812|2290000
+Weapons/C Grade/Bows|282|2870000
+Weapons/C Grade/Bows|285|2870000
+Weapons/C Grade/Bows|4813|2870000
+Weapons/C Grade/Bows|4814|2870000
+Weapons/C Grade/Bows|4815|2870000
+Weapons/C Grade/Bows|4816|2870000
+Weapons/C Grade/Bows|4817|2870000
+Weapons/C Grade/Bows|4818|2870000
+Weapons/C Grade/Bows|283|4300000
+Weapons/C Grade/Bows|4819|4300000
+Weapons/C Grade/Bows|4820|4300000
+Weapons/C Grade/Bows|4821|4300000
+Weapons/C Grade/Bows|286|6130000
+Weapons/C Grade/Bows|4822|6130000
+Weapons/C Grade/Bows|4823|6130000
+Weapons/C Grade/Bows|4824|6130000
+Weapons/C Grade/Dual Swords|2523|1960000
+Weapons/C Grade/Dual Swords|2551|1960000
+Weapons/C Grade/Dual Swords|2552|1960000
+Weapons/C Grade/Dual Swords|2555|1960000
+Weapons/C Grade/Dual Swords|2531|2120000
+Weapons/C Grade/Dual Swords|2538|2120000
+Weapons/C Grade/Dual Swords|2544|2120000
+Weapons/C Grade/Dual Swords|2549|2120000
+Weapons/C Grade/Dual Swords|2524|2290000
+Weapons/C Grade/Dual Swords|2532|2470000
+Weapons/C Grade/Dual Swords|2539|2470000
+Weapons/C Grade/Dual Swords|2545|2470000
+Weapons/C Grade/Dual Swords|2550|2470000
+Weapons/C Grade/Dual Swords|2553|2470000
+Weapons/C Grade/Dual Swords|2556|2470000
+Weapons/C Grade/Dual Swords|2554|2870000
+Weapons/C Grade/Dual Swords|2557|2870000
+Weapons/C Grade/Dual Swords|2558|2870000
+Weapons/C Grade/Dual Swords|2559|3340000
+Weapons/C Grade/Dual Swords|2560|3820000
+Weapons/C Grade/Dual Swords|2561|4780000
+Weapons/C Grade/Dual Swords|2562|5280000
+Weapons/C Grade/Dual Swords|2563|5280000
+Weapons/C Grade/Dual Swords|2564|5280000
+Weapons/C Grade/Dual Swords|2565|5280000
+Weapons/C Grade/Dual Swords|2572|6130000
+Weapons/C Grade/Dual Swords|2573|6130000
+Weapons/C Grade/Dual Swords|2574|6130000
+Weapons/C Grade/Dual Swords|2575|6130000
+Weapons/C Grade/Dual Swords|2582|6130000
+Weapons/C Grade/Dual Swords|2583|6130000
+Weapons/C Grade/Dual Swords|2584|6130000
+Weapons/C Grade/Dual Swords|2591|6130000
+Weapons/C Grade/Dual Swords|2592|6130000
+Weapons/C Grade/Dual Swords|2599|6130000
+Weapons/B Grade/Swords|78|8680000
+Weapons/B Grade/Swords|142|8680000
+Weapons/B Grade/Swords|148|8680000
+Weapons/B Grade/Swords|4714|8680000
+Weapons/B Grade/Swords|4715|8680000
+Weapons/B Grade/Swords|4716|8680000
+Weapons/B Grade/Swords|4723|8680000
+Weapons/B Grade/Swords|4724|8680000
+Weapons/B Grade/Swords|4725|8680000
+Weapons/B Grade/Swords|7722|8680000
+Weapons/B Grade/Swords|7723|8680000
+Weapons/B Grade/Swords|7724|8680000
+Weapons/B Grade/Swords|79|13100000
+Weapons/B Grade/Swords|4717|13100000
+Weapons/B Grade/Swords|4718|13100000
+Weapons/B Grade/Swords|4719|13100000
+Weapons/B Grade/Swords|7883|13118820
+Weapons/B Grade/Swords|7889|13118820
+Weapons/B Grade/Swords|8105|13118820
+Weapons/B Grade/Swords|8106|13118820
+Weapons/B Grade/Swords|8107|13118820
+Weapons/B Grade/Swords|8117|13118820
+Weapons/B Grade/Swords|8118|13118820
+Weapons/B Grade/Swords|8119|13118820
+Weapons/B Grade/Blunt Weapons|91|8680000
+Weapons/B Grade/Blunt Weapons|92|8680000
+Weapons/B Grade/Blunt Weapons|4747|8680000
+Weapons/B Grade/Blunt Weapons|4748|8680000
+Weapons/B Grade/Blunt Weapons|4749|8680000
+Weapons/B Grade/Blunt Weapons|4897|8680000
+Weapons/B Grade/Blunt Weapons|4898|8680000
+Weapons/B Grade/Blunt Weapons|4899|8680000
+Weapons/B Grade/Blunt Weapons|7892|8684650
+Weapons/B Grade/Blunt Weapons|7900|8684650
+Weapons/B Grade/Blunt Weapons|8129|8684650
+Weapons/B Grade/Blunt Weapons|8130|8684650
+Weapons/B Grade/Blunt Weapons|8131|8684650
+Weapons/B Grade/Blunt Weapons|8141|8684650
+Weapons/B Grade/Blunt Weapons|8142|8684650
+Weapons/B Grade/Blunt Weapons|8143|8684650
+Weapons/B Grade/Blunt Weapons|171|13100000
+Weapons/B Grade/Blunt Weapons|175|13100000
+Weapons/B Grade/Blunt Weapons|210|13100000
+Weapons/B Grade/Blunt Weapons|4750|13100000
+Weapons/B Grade/Blunt Weapons|4751|13100000
+Weapons/B Grade/Blunt Weapons|4752|13100000
+Weapons/B Grade/Blunt Weapons|4753|13100000
+Weapons/B Grade/Blunt Weapons|4754|13100000
+Weapons/B Grade/Blunt Weapons|4755|13100000
+Weapons/B Grade/Blunt Weapons|4900|13100000
+Weapons/B Grade/Blunt Weapons|4901|13100000
+Weapons/B Grade/Blunt Weapons|4902|13100000
+Weapons/B Grade/Blunt Weapons|7893|13118820
+Weapons/B Grade/Blunt Weapons|7901|13118820
+Weapons/B Grade/Blunt Weapons|8132|13118820
+Weapons/B Grade/Blunt Weapons|8133|13118820
+Weapons/B Grade/Blunt Weapons|8134|13118820
+Weapons/B Grade/Blunt Weapons|8144|13118820
+Weapons/B Grade/Blunt Weapons|8145|13118820
+Weapons/B Grade/Blunt Weapons|8146|13118820
+Weapons/B Grade/Polearms|300|8680000
+Weapons/B Grade/Polearms|4855|8680000
+Weapons/B Grade/Polearms|4856|8680000
+Weapons/B Grade/Polearms|4857|8680000
+Weapons/B Grade/Polearms|97|13100000
+Weapons/B Grade/Polearms|4858|13100000
+Weapons/B Grade/Polearms|4859|13100000
+Weapons/B Grade/Polearms|4860|13100000
+Weapons/B Grade/Daggers|229|8680000
+Weapons/B Grade/Daggers|243|8680000
+Weapons/B Grade/Daggers|4777|8680000
+Weapons/B Grade/Daggers|4778|8680000
+Weapons/B Grade/Daggers|4779|8680000
+Weapons/B Grade/Daggers|4786|8680000
+Weapons/B Grade/Daggers|4787|8680000
+Weapons/B Grade/Daggers|4788|8680000
+Weapons/B Grade/Daggers|7813|8680000
+Weapons/B Grade/Daggers|7814|8680000
+Weapons/B Grade/Daggers|7815|8680000
+Weapons/B Grade/Daggers|234|13100000
+Weapons/B Grade/Daggers|4780|13100000
+Weapons/B Grade/Daggers|4781|13100000
+Weapons/B Grade/Daggers|4782|13100000
+Weapons/B Grade/Daggers|6359|13100000
+Weapons/B Grade/Fist Weapons|267|8680000
+Weapons/B Grade/Fist Weapons|4801|8680000
+Weapons/B Grade/Fist Weapons|4802|8680000
+Weapons/B Grade/Fist Weapons|4803|8680000
+Weapons/B Grade/Fist Weapons|268|13100000
+Weapons/B Grade/Fist Weapons|4804|13100000
+Weapons/B Grade/Fist Weapons|4805|13100000
+Weapons/B Grade/Fist Weapons|4806|13100000
+Weapons/B Grade/Bows|284|8680000
+Weapons/B Grade/Bows|4825|8680000
+Weapons/B Grade/Bows|4826|8680000
+Weapons/B Grade/Bows|4827|8680000
+Weapons/B Grade/Bows|287|13100000
+Weapons/B Grade/Bows|4828|13100000
+Weapons/B Grade/Bows|4829|13100000
+Weapons/B Grade/Bows|4830|13100000
+Weapons/B Grade/Dual Swords|2566|6980000
+Weapons/B Grade/Dual Swords|2567|6980000
+Weapons/B Grade/Dual Swords|2568|6980000
+Weapons/B Grade/Dual Swords|2569|6980000
+Weapons/B Grade/Dual Swords|2570|6980000
+Weapons/B Grade/Dual Swords|2576|7830000
+Weapons/B Grade/Dual Swords|2577|7830000
+Weapons/B Grade/Dual Swords|2578|7830000
+Weapons/B Grade/Dual Swords|2579|7830000
+Weapons/B Grade/Dual Swords|2580|7830000
+Weapons/B Grade/Dual Swords|2585|7830000
+Weapons/B Grade/Dual Swords|2586|7830000
+Weapons/B Grade/Dual Swords|2587|7830000
+Weapons/B Grade/Dual Swords|2588|7830000
+Weapons/B Grade/Dual Swords|2589|7830000
+Weapons/B Grade/Dual Swords|2593|7830000
+Weapons/B Grade/Dual Swords|2594|7830000
+Weapons/B Grade/Dual Swords|2595|7830000
+Weapons/B Grade/Dual Swords|2596|7830000
+Weapons/B Grade/Dual Swords|2597|7830000
+Weapons/B Grade/Dual Swords|2600|7830000
+Weapons/B Grade/Dual Swords|2601|7830000
+Weapons/B Grade/Dual Swords|2602|7830000
+Weapons/B Grade/Dual Swords|2603|7830000
+Weapons/B Grade/Dual Swords|2604|7830000
+Weapons/B Grade/Dual Swords|2571|8680000
+Weapons/B Grade/Dual Swords|2606|8680000
+Weapons/B Grade/Dual Swords|2607|8680000
+Weapons/B Grade/Dual Swords|2608|8680000
+Weapons/B Grade/Dual Swords|2609|8680000
+Weapons/B Grade/Dual Swords|2610|8680000
+Weapons/B Grade/Dual Swords|2612|8680000
+Weapons/B Grade/Dual Swords|2613|8680000
+Weapons/B Grade/Dual Swords|2614|8680000
+Weapons/B Grade/Dual Swords|2615|8680000
+Weapons/B Grade/Dual Swords|2617|8680000
+Weapons/B Grade/Dual Swords|2618|8680000
+Weapons/B Grade/Dual Swords|2619|8680000
+Weapons/B Grade/Dual Swords|2621|8680000
+Weapons/B Grade/Dual Swords|2622|8680000
+Weapons/B Grade/Dual Swords|2624|8680000
+Weapons/B Grade/Dual Swords|2581|9550000
+Weapons/B Grade/Dual Swords|2590|9550000
+Weapons/B Grade/Dual Swords|2598|9550000
+Weapons/B Grade/Dual Swords|2605|9550000
+Weapons/B Grade/Dual Swords|2611|11300000
+Weapons/B Grade/Dual Swords|2616|11300000
+Weapons/B Grade/Dual Swords|2620|11300000
+Weapons/B Grade/Dual Swords|2623|11300000
+Weapons/B Grade/Dual Swords|2625|11300000
+Weapons/B Grade/Dual Swords|2626|13100000
+Weapons/A Grade/Swords|80|18300000
+Weapons/A Grade/Swords|150|18300000
+Weapons/A Grade/Swords|4720|18300000
+Weapons/A Grade/Swords|4721|18300000
+Weapons/A Grade/Swords|4722|18300000
+Weapons/A Grade/Swords|5635|18300000
+Weapons/A Grade/Swords|5636|18300000
+Weapons/A Grade/Swords|5637|18300000
+Weapons/A Grade/Swords|5638|18300000
+Weapons/A Grade/Swords|5639|18300000
+Weapons/A Grade/Swords|5640|18300000
+Weapons/A Grade/Swords|7884|18327400
+Weapons/A Grade/Swords|8108|18327400
+Weapons/A Grade/Swords|8109|18327400
+Weapons/A Grade/Swords|8110|18327400
+Weapons/A Grade/Swords|81|27000000
+Weapons/A Grade/Swords|151|27000000
+Weapons/A Grade/Swords|2500|27000000
+Weapons/A Grade/Swords|5641|27000000
+Weapons/A Grade/Swords|5642|27000000
+Weapons/A Grade/Swords|5643|27000000
+Weapons/A Grade/Swords|5644|27000000
+Weapons/A Grade/Swords|5645|27000000
+Weapons/A Grade/Swords|5646|27000000
+Weapons/A Grade/Swords|5647|27000000
+Weapons/A Grade/Swords|5648|27000000
+Weapons/A Grade/Swords|5649|27000000
+Weapons/A Grade/Swords|8678|35300000
+Weapons/A Grade/Swords|8679|35300000
+Weapons/A Grade/Swords|8686|35300000
+Weapons/A Grade/Swords|8788|35300000
+Weapons/A Grade/Swords|8789|35300000
+Weapons/A Grade/Swords|8790|35300000
+Weapons/A Grade/Swords|8791|35300000
+Weapons/A Grade/Swords|8792|35300000
+Weapons/A Grade/Swords|8793|35300000
+Weapons/A Grade/Swords|8812|35300000
+Weapons/A Grade/Swords|8813|35300000
+Weapons/A Grade/Swords|8814|35300000
+Weapons/A Grade/Polearms|98|18300000
+Weapons/A Grade/Polearms|4861|18300000
+Weapons/A Grade/Polearms|4862|18300000
+Weapons/A Grade/Polearms|4863|18300000
+Weapons/A Grade/Polearms|5626|18300000
+Weapons/A Grade/Polearms|5627|18300000
+Weapons/A Grade/Polearms|5628|18300000
+Weapons/A Grade/Polearms|304|21300000
+Weapons/A Grade/Polearms|5629|21300000
+Weapons/A Grade/Polearms|5630|21300000
+Weapons/A Grade/Polearms|5631|21300000
+Weapons/A Grade/Polearms|305|27000000
+Weapons/A Grade/Polearms|5632|27000000
+Weapons/A Grade/Polearms|5633|27000000
+Weapons/A Grade/Polearms|5634|27000000
+Weapons/A Grade/Polearms|8683|35300000
+Weapons/A Grade/Polearms|8803|35300000
+Weapons/A Grade/Polearms|8804|35300000
+Weapons/A Grade/Polearms|8805|35300000
+Weapons/A Grade/Blunt Weapons|212|18300000
+Weapons/A Grade/Blunt Weapons|2504|18300000
+Weapons/A Grade/Blunt Weapons|4756|18300000
+Weapons/A Grade/Blunt Weapons|4757|18300000
+Weapons/A Grade/Blunt Weapons|4758|18300000
+Weapons/A Grade/Blunt Weapons|4903|18300000
+Weapons/A Grade/Blunt Weapons|4904|18300000
+Weapons/A Grade/Blunt Weapons|4905|18300000
+Weapons/A Grade/Blunt Weapons|5596|18300000
+Weapons/A Grade/Blunt Weapons|5597|18300000
+Weapons/A Grade/Blunt Weapons|5598|18300000
+Weapons/A Grade/Blunt Weapons|5599|18300000
+Weapons/A Grade/Blunt Weapons|5600|18300000
+Weapons/A Grade/Blunt Weapons|5601|18300000
+Weapons/A Grade/Blunt Weapons|7894|18327400
+Weapons/A Grade/Blunt Weapons|7899|18327400
+Weapons/A Grade/Blunt Weapons|8126|18327400
+Weapons/A Grade/Blunt Weapons|8127|18327400
+Weapons/A Grade/Blunt Weapons|8128|18327400
+Weapons/A Grade/Blunt Weapons|8147|18327400
+Weapons/A Grade/Blunt Weapons|8148|18327400
+Weapons/A Grade/Blunt Weapons|8149|18327400
+Weapons/A Grade/Blunt Weapons|7895|26963300
+Weapons/A Grade/Blunt Weapons|7902|26963300
+Weapons/A Grade/Blunt Weapons|8135|26963300
+Weapons/A Grade/Blunt Weapons|8136|26963300
+Weapons/A Grade/Blunt Weapons|8137|26963300
+Weapons/A Grade/Blunt Weapons|8150|26963300
+Weapons/A Grade/Blunt Weapons|8151|26963300
+Weapons/A Grade/Blunt Weapons|8152|26963300
+Weapons/A Grade/Blunt Weapons|164|27000000
+Weapons/A Grade/Blunt Weapons|213|27000000
+Weapons/A Grade/Blunt Weapons|5602|27000000
+Weapons/A Grade/Blunt Weapons|5603|27000000
+Weapons/A Grade/Blunt Weapons|5604|27000000
+Weapons/A Grade/Blunt Weapons|5605|27000000
+Weapons/A Grade/Blunt Weapons|5606|27000000
+Weapons/A Grade/Blunt Weapons|5607|27000000
+Weapons/A Grade/Blunt Weapons|8680|35300000
+Weapons/A Grade/Blunt Weapons|8681|35300000
+Weapons/A Grade/Blunt Weapons|8687|35300000
+Weapons/A Grade/Blunt Weapons|8688|35300000
+Weapons/A Grade/Blunt Weapons|8794|35300000
+Weapons/A Grade/Blunt Weapons|8795|35300000
+Weapons/A Grade/Blunt Weapons|8796|35300000
+Weapons/A Grade/Blunt Weapons|8797|35300000
+Weapons/A Grade/Blunt Weapons|8798|35300000
+Weapons/A Grade/Blunt Weapons|8799|35300000
+Weapons/A Grade/Blunt Weapons|8815|35300000
+Weapons/A Grade/Blunt Weapons|8816|35300000
+Weapons/A Grade/Blunt Weapons|8817|35300000
+Weapons/A Grade/Blunt Weapons|8818|35300000
+Weapons/A Grade/Blunt Weapons|8819|35300000
+Weapons/A Grade/Blunt Weapons|8820|35300000
+Weapons/A Grade/Daggers|235|18300000
+Weapons/A Grade/Daggers|4783|18300000
+Weapons/A Grade/Daggers|4784|18300000
+Weapons/A Grade/Daggers|4785|18300000
+Weapons/A Grade/Daggers|5614|18300000
+Weapons/A Grade/Daggers|5615|18300000
+Weapons/A Grade/Daggers|5616|18300000
+Weapons/A Grade/Daggers|236|27000000
+Weapons/A Grade/Daggers|5617|27000000
+Weapons/A Grade/Daggers|5618|27000000
+Weapons/A Grade/Daggers|5619|27000000
+Weapons/A Grade/Daggers|8682|35300000
+Weapons/A Grade/Daggers|8800|35300000
+Weapons/A Grade/Daggers|8801|35300000
+Weapons/A Grade/Daggers|8802|35300000
+Weapons/A Grade/Fist Weapons|269|18300000
+Weapons/A Grade/Fist Weapons|4807|18300000
+Weapons/A Grade/Fist Weapons|4808|18300000
+Weapons/A Grade/Fist Weapons|4809|18300000
+Weapons/A Grade/Fist Weapons|5620|18300000
+Weapons/A Grade/Fist Weapons|5621|18300000
+Weapons/A Grade/Fist Weapons|5622|18300000
+Weapons/A Grade/Fist Weapons|270|27000000
+Weapons/A Grade/Fist Weapons|5623|27000000
+Weapons/A Grade/Fist Weapons|5624|27000000
+Weapons/A Grade/Fist Weapons|5625|27000000
+Weapons/A Grade/Fist Weapons|8685|35300000
+Weapons/A Grade/Fist Weapons|8809|35300000
+Weapons/A Grade/Fist Weapons|8810|35300000
+Weapons/A Grade/Fist Weapons|8811|35300000
+Weapons/A Grade/Bows|288|18300000
+Weapons/A Grade/Bows|4831|18300000
+Weapons/A Grade/Bows|4832|18300000
+Weapons/A Grade/Bows|4833|18300000
+Weapons/A Grade/Bows|5608|18300000
+Weapons/A Grade/Bows|5609|18300000
+Weapons/A Grade/Bows|5610|18300000
+Weapons/A Grade/Bows|289|27000000
+Weapons/A Grade/Bows|5611|27000000
+Weapons/A Grade/Bows|5612|27000000
+Weapons/A Grade/Bows|5613|27000000
+Weapons/A Grade/Bows|8684|35300000
+Weapons/A Grade/Bows|8806|35300000
+Weapons/A Grade/Bows|8807|35300000
+Weapons/A Grade/Bows|8808|35300000
+Weapons/A Grade/Dual Swords|5233|18300000
+Weapons/A Grade/Dual Swords|5705|24100000
+Weapons/A Grade/Dual Swords|5706|27000000
+Weapons/A Grade/Dual Swords|8938|35058920
+Weapons/S Grade|6364|48800000
+Weapons/S Grade|6365|48800000
+Weapons/S Grade|6366|48800000
+Weapons/S Grade|6367|48800000
+Weapons/S Grade|6368|48800000
+Weapons/S Grade|6369|48800000
+Weapons/S Grade|6370|48800000
+Weapons/S Grade|6371|48800000
+Weapons/S Grade|6372|48800000
+Weapons/S Grade|6579|48800000
+Weapons/S Grade|6580|48800000
+Weapons/S Grade|6581|48800000
+Weapons/S Grade|6582|48800000
+Weapons/S Grade|6583|48800000
+Weapons/S Grade|6584|48800000
+Weapons/S Grade|6585|48800000
+Weapons/S Grade|6586|48800000
+Weapons/S Grade|6587|48800000
+Weapons/S Grade|6588|48800000
+Weapons/S Grade|6589|48800000
+Weapons/S Grade|6590|48800000
+Weapons/S Grade|6591|48800000
+Weapons/S Grade|6592|48800000
+Weapons/S Grade|6593|48800000
+Weapons/S Grade|6594|48800000
+Weapons/S Grade|6595|48800000
+Weapons/S Grade|6596|48800000
+Weapons/S Grade|6597|48800000
+Weapons/S Grade|6598|48800000
+Weapons/S Grade|6599|48800000
+Weapons/S Grade|6600|48800000
+Weapons/S Grade|6601|48800000
+Weapons/S Grade|6602|48800000
+Weapons/S Grade|6603|48800000
+Weapons/S Grade|6604|48800000
+Weapons/S Grade|6605|48800000
+Weapons/S Grade|6606|48800000
+Weapons/S Grade|6607|48800000
+Weapons/S Grade|6608|48800000
+Weapons/S Grade|6609|48800000
+Weapons/S Grade|6610|48800000
+Weapons/S Grade|7575|48800000
+Weapons/S Grade|7576|48800000
+Weapons/S Grade|7577|48800000
+Weapons/S Grade|7578|48800000
+Weapons/Weird|82|38000000
+Weapons/Weird|85|18300000
+Weapons/Weird|99|12500
+Weapons/Weird|100|244000
+Weapons/Weird|101|409000
+Weapons/Weird|136|8680000
+Weapons/Weird|137|8680000
+Weapons/Weird|138|8680000
+Weapons/Weird|139|8680000
+Weapons/Weird|140|8680000
+Weapons/Weird|141|8680000
+Weapons/Weird|146|8680000
+Weapons/Weird|147|18300000
+Weapons/Weird|149|18300000
+Weapons/Weird|163|8680000
+Weapons/Weird|165|35300000
+Weapons/Weird|170|16600000
+Weapons/Weird|207|8680000
+Weapons/Weird|208|8680000
+Weapons/Weird|209|13100000
+Weapons/Weird|211|13100000
+Weapons/Weird|214|35300000
+Weapons/Weird|230|2290000
+Weapons/Weird|237|35300000
+Weapons/Weird|264|7830000
+Weapons/Weird|290|35300000
+Weapons/Weird|306|35300000
+Weapons/Weird|307|10000000
+Weapons/Weird|308|6000
+Weapons/Weird|309|136000
+Weapons/Weird|310|136000
+Weapons/Weird|311|244000
+Weapons/Weird|312|409000
+Weapons/Weird|313|409000
+Weapons/Weird|314|409000
+Weapons/Weird|315|644000
+Weapons/Weird|316|967000
+Weapons/Weird|317|967000
+Weapons/Weird|318|1400000
+Weapons/Weird|319|1400000
+Weapons/Weird|320|1520000
+Weapons/Weird|321|1520000
+Weapons/Weird|322|1800000
+Weapons/Weird|323|1800000
+Weapons/Weird|324|2870000
+Weapons/Weird|325|2870000
+Weapons/Weird|326|4300000
+Weapons/Weird|327|4300000
+Weapons/Weird|328|6130000
+Weapons/Weird|329|6130000
+Weapons/Weird|330|6130000
+Weapons/Weird|331|6130000
+Weapons/Weird|332|6130000
+Weapons/Weird|333|6130000
+Weapons/Weird|334|6130000
+Weapons/Weird|335|13100000
+Weapons/Weird|336|18300000
+Weapons/Weird|337|18300000
+Weapons/Weird|338|18300000
+Weapons/Weird|339|18300000
+Weapons/Weird|340|18300000
+Weapons/Weird|341|27000000
+Weapons/Weird|342|27000000
+Weapons/Weird|343|27000000
+Weapons/Weird|344|27000000
+Weapons/Weird|345|27000000
+Weapons/Weird|346|35300000
+Weapons/Weird|749|35800
+Weapons/Weird|1181|10000000
+Weapons/Weird|1182|10000000
+Weapons/Weird|1299|3340000
+Weapons/Weird|1471|409000
+Weapons/Weird|1472|409000
+Weapons/Weird|3471|10000000
+Weapons/Weird|4665|10000000
+Weapons/Weird|6529|30000
+Weapons/Weird|6530|100000
+Weapons/Weird|6531|400000
+Weapons/Weird|6532|1200000
+Weapons/Weird|6533|4000000
+Weapons/Weird|6534|10000000
+Weapons/Weird|7903|967000
+Weapons/Weird|8763|325000
+Weapons/Weird|9140|10000000
+Armor/No Grade/Robe|461|6
+Armor/No Grade/Robe|1121|7
+Armor/No Grade/Robe|425|26
+Armor/No Grade/Robe|35|37
+Armor/No Grade/Robe|36|37
+Armor/No Grade/Robe|48|37
+Armor/No Grade/Robe|41|55
+Armor/No Grade/Robe|462|92
+Armor/No Grade/Robe|426|147
+Armor/No Grade/Robe|1122|607
+Armor/No Grade/Robe|1129|607
+Armor/No Grade/Robe|42|911
+Armor/No Grade/Robe|463|1520
+Armor/No Grade/Robe|1103|1520
+Armor/No Grade/Robe|428|2430
+Armor/No Grade/Robe|1100|2430
+Armor/No Grade/Robe|37|2650
+Armor/No Grade/Robe|49|2650
+Armor/No Grade/Robe|1318|3270
+Armor/No Grade/Robe|1323|3270
+Armor/No Grade/Robe|427|3550
+Armor/No Grade/Robe|464|4970
+Armor/No Grade/Robe|50|6770
+Armor/No Grade/Robe|1319|7950
+Armor/No Grade/Robe|429|7960
+Armor/No Grade/Robe|44|10200
+Armor/No Grade/Robe|39|12300
+Armor/No Grade/Robe|1104|12700
+Armor/No Grade/Robe|1327|16200
+Armor/No Grade/Robe|1101|20300
+Armor/No Grade/Robe|1105|23000
+Armor/No Grade/Robe|430|29700
+Armor/No Grade/Robe|1325|29800
+Armor/No Grade/Robe|1315|30300
+Armor/No Grade/Robe|1102|36900
+Armor/No Grade/Robe|1310|48500
+Armor/No Grade/Robe|431|53900
+Armor/No Grade/Robe|1317|62500
+Armor/No Grade/Robe|1312|138000
+Armor/No Grade/Light|1147|6
+Armor/No Grade/Light|28|92
+Armor/No Grade/Light|1119|607
+Armor/No Grade/Light|29|1520
+Armor/No Grade/Light|43|3980
+Armor/No Grade/Light|30|4970
+Armor/No Grade/Light|2386|4970
+Armor/No Grade/Light|38|6770
+Armor/No Grade/Light|1324|7950
+Armor/No Grade/Light|23|7960
+Armor/No Grade/Light|31|12700
+Armor/No Grade/Light|412|12700
+Armor/No Grade/Light|1322|16200
+Armor/No Grade/Light|1148|18400
+Armor/No Grade/Light|24|20300
+Armor/No Grade/Light|33|23000
+Armor/No Grade/Light|1320|29800
+Armor/No Grade/Light|1316|55800
+Armor/No Grade/Light|1321|97800
+Armor/No Grade/Heavy|51|12300
+Armor/No Grade/Heavy|4226|12300
+Armor/No Grade/Heavy|4227|12300
+Armor/No Grade/Heavy|4230|12300
+Armor/No Grade/Heavy|4231|12300
+Armor/No Grade/Heavy|32|19900
+Armor/No Grade/Heavy|34|30700
+Armor/No Grade/Heavy|4225|30700
+Armor/No Grade/Heavy|4229|30700
+Armor/No Grade/Heavy|25|31800
+Armor/No Grade/Heavy|26|49200
+Armor/No Grade/Heavy|4224|49200
+Armor/No Grade/Heavy|4228|49200
+Armor/No Grade/Heavy|1326|74700
+Armor/No Grade/Heavy|1313|170000
+Armor/No Grade/Heavy|1314|170000
+Armor/No Grade/Heavy|1308|247000
+Armor/No Grade/Heavy|1309|247000
+Armor/No Grade/Shields|18|30
+Armor/No Grade/Shields|19|638
+Armor/No Grade/Shields|20|2780
+Armor/No Grade/Shields|945|3440
+Armor/No Grade/Shields|102|7110
+Armor/No Grade/Shields|625|12900
+Armor/No Grade/Shields|4222|12900
+Armor/No Grade/Shields|4223|12900
+Armor/No Grade/Shields|6902|12900
+Armor/No Grade/Shields|7015|12900
+Armor/No Grade/Shields|1332|321000
+Armor/No Grade/Shields|1328|1090000
+Armor/No Grade/Shields|1329|1430000
+Armor/No Grade/Shields|1331|1430000
+Armor/No Grade/Shields|1330|1850000
+Armor/D Grade/Robe|465|39100
+Armor/D Grade/Robe|63|50800
+Armor/D Grade/Robe|2423|50800
+Armor/D Grade/Robe|2447|50800
+Armor/D Grade/Robe|7858|50830
+Armor/D Grade/Robe|7859|50830
+Armor/D Grade/Robe|466|62500
+Armor/D Grade/Robe|467|62500
+Armor/D Grade/Robe|468|62500
+Armor/D Grade/Robe|432|62600
+Armor/D Grade/Robe|2426|74700
+Armor/D Grade/Robe|469|95200
+Armor/D Grade/Robe|2451|97800
+Armor/D Grade/Robe|433|99900
+Armor/D Grade/Robe|434|99900
+Armor/D Grade/Robe|435|99900
+Armor/D Grade/Robe|470|140000
+Armor/D Grade/Robe|2401|140000
+Armor/D Grade/Robe|436|152000
+Armor/D Grade/Robe|437|224000
+Armor/D Grade/Robe|2396|224000
+Armor/D Grade/Robe|7857|247520
+Armor/D Grade/Robe|438|429000
+Armor/D Grade/Light|40|20900
+Armor/D Grade/Light|604|20900
+Armor/D Grade/Light|605|33300
+Armor/D Grade/Light|1123|33300
+Armor/D Grade/Light|413|39100
+Armor/D Grade/Light|2422|50800
+Armor/D Grade/Light|2446|50800
+Armor/D Grade/Light|7855|50830
+Armor/D Grade/Light|7856|50830
+Armor/D Grade/Light|414|62500
+Armor/D Grade/Light|606|74700
+Armor/D Grade/Light|1124|74700
+Armor/D Grade/Light|2424|74700
+Armor/D Grade/Light|2448|74700
+Armor/D Grade/Light|2450|74700
+Armor/D Grade/Light|415|95200
+Armor/D Grade/Light|416|95200
+Armor/D Grade/Light|1125|97800
+Armor/D Grade/Light|2427|97800
+Armor/D Grade/Light|2428|97800
+Armor/D Grade/Light|417|140000
+Armor/D Grade/Light|2412|147000
+Armor/D Grade/Light|393|152000
+Armor/D Grade/Light|7854|247520
+Armor/D Grade/Light|396|429000
+Armor/D Grade/Heavy|45|31300
+Armor/D Grade/Heavy|46|50000
+Armor/D Grade/Heavy|553|50800
+Armor/D Grade/Heavy|7852|50830
+Armor/D Grade/Heavy|7853|50830
+Armor/D Grade/Heavy|376|52200
+Armor/D Grade/Heavy|2425|74700
+Armor/D Grade/Heavy|2449|74700
+Armor/D Grade/Heavy|7850|76180
+Armor/D Grade/Heavy|47|76200
+Armor/D Grade/Heavy|377|83300
+Armor/D Grade/Heavy|347|83500
+Armor/D Grade/Heavy|61|97800
+Armor/D Grade/Heavy|607|97800
+Armor/D Grade/Heavy|2411|112000
+Armor/D Grade/Heavy|59|127000
+Armor/D Grade/Heavy|378|127000
+Armor/D Grade/Heavy|379|127000
+Armor/D Grade/Heavy|348|133000
+Armor/D Grade/Heavy|58|183000
+Armor/D Grade/Heavy|349|183000
+Armor/D Grade/Heavy|350|183000
+Armor/D Grade/Heavy|2377|187000
+Armor/D Grade/Heavy|2378|187000
+Armor/D Grade/Heavy|351|203000
+Armor/D Grade/Heavy|380|244000
+Armor/D Grade/Heavy|352|299000
+Armor/D Grade/Heavy|7851|330070
+Armor/D Grade/Heavy|353|391000
+Armor/D Grade/Shields|626|21900
+Armor/D Grade/Shields|627|35000
+Armor/D Grade/Shields|628|53300
+Armor/D Grade/Shields|629|78400
+Armor/D Grade/Shields|2493|78400
+Armor/D Grade/Shields|630|103000
+Armor/D Grade/Shields|2494|103000
+Armor/C Grade/Robe|2430|126000
+Armor/C Grade/Robe|2433|126000
+Armor/C Grade/Robe|2454|126000
+Armor/C Grade/Robe|2457|161000
+Armor/C Grade/Robe|471|237000
+Armor/C Grade/Robe|2435|245000
+Armor/C Grade/Robe|2459|245000
+Armor/C Grade/Robe|603|358000
+Armor/C Grade/Robe|2463|358000
+Armor/C Grade/Robe|439|379000
+Armor/C Grade/Robe|472|460000
+Armor/C Grade/Robe|529|536000
+Armor/C Grade/Robe|531|536000
+Armor/C Grade/Robe|533|536000
+Armor/C Grade/Robe|535|536000
+Armor/C Grade/Robe|537|536000
+Armor/C Grade/Robe|539|536000
+Armor/C Grade/Robe|541|536000
+Armor/C Grade/Robe|543|536000
+Armor/C Grade/Robe|549|536000
+Armor/C Grade/Robe|473|671000
+Armor/C Grade/Robe|440|707000
+Armor/C Grade/Robe|441|736000
+Armor/C Grade/Robe|442|1070000
+Armor/C Grade/Light|62|126000
+Armor/C Grade/Light|2431|126000
+Armor/C Grade/Light|2452|126000
+Armor/C Grade/Light|2455|149000
+Armor/C Grade/Light|1120|161000
+Armor/C Grade/Light|1126|161000
+Armor/C Grade/Light|2434|161000
+Armor/C Grade/Light|2458|161000
+Armor/C Grade/Light|2387|237000
+Armor/C Grade/Light|1127|245000
+Armor/C Grade/Light|2436|275000
+Armor/C Grade/Light|2460|275000
+Armor/C Grade/Light|418|279000
+Armor/C Grade/Light|419|302000
+Armor/C Grade/Light|2437|358000
+Armor/C Grade/Light|2461|358000
+Armor/C Grade/Light|2468|358000
+Armor/C Grade/Light|398|446000
+Armor/C Grade/Light|399|483000
+Armor/C Grade/Light|420|516000
+Armor/C Grade/Light|400|825000
+Armor/C Grade/Light|401|1570000
+Armor/C Grade/Heavy|2429|126000
+Armor/C Grade/Heavy|2432|126000
+Armor/C Grade/Heavy|2453|126000
+Armor/C Grade/Heavy|497|147000
+Armor/C Grade/Heavy|2456|161000
+Armor/C Grade/Heavy|2413|189000
+Armor/C Grade/Heavy|498|206000
+Armor/C Grade/Heavy|500|242000
+Armor/C Grade/Heavy|64|245000
+Armor/C Grade/Heavy|608|245000
+Armor/C Grade/Heavy|381|316000
+Armor/C Grade/Heavy|609|358000
+Armor/C Grade/Heavy|1128|358000
+Armor/C Grade/Heavy|2438|358000
+Armor/C Grade/Heavy|2462|358000
+Armor/C Grade/Heavy|517|368000
+Armor/C Grade/Heavy|1149|368000
+Armor/C Grade/Heavy|382|403000
+Armor/C Grade/Heavy|499|536000
+Armor/C Grade/Heavy|545|536000
+Armor/C Grade/Heavy|551|536000
+Armor/C Grade/Heavy|2414|536000
+Armor/C Grade/Heavy|60|1440000
+Armor/C Grade/Heavy|356|2090000
+Armor/C Grade/Shields|631|133000
+Armor/C Grade/Shields|2495|133000
+Armor/C Grade/Shields|2496|156000
+Armor/C Grade/Shields|632|169000
+Armor/C Grade/Shields|103|258000
+Armor/C Grade/Shields|107|258000
+Armor/C Grade/Shields|2497|375000
+Armor/B Grade/Robe|580|519000
+Armor/B Grade/Robe|584|519000
+Armor/B Grade/Robe|586|519000
+Armor/B Grade/Robe|594|519000
+Armor/B Grade/Robe|595|519000
+Armor/B Grade/Robe|2467|519000
+Armor/B Grade/Robe|5712|519000
+Armor/B Grade/Robe|5716|519000
+Armor/B Grade/Robe|5728|519000
+Armor/B Grade/Robe|5732|519000
+Armor/B Grade/Robe|530|778000
+Armor/B Grade/Robe|532|778000
+Armor/B Grade/Robe|534|778000
+Armor/B Grade/Robe|536|778000
+Armor/B Grade/Robe|538|778000
+Armor/B Grade/Robe|540|778000
+Armor/B Grade/Robe|542|778000
+Armor/B Grade/Robe|544|778000
+Armor/B Grade/Robe|546|778000
+Armor/B Grade/Robe|548|778000
+Armor/B Grade/Robe|550|778000
+Armor/B Grade/Robe|552|778000
+Armor/B Grade/Robe|2415|778000
+Armor/B Grade/Robe|581|804000
+Armor/B Grade/Robe|582|804000
+Armor/B Grade/Robe|585|804000
+Armor/B Grade/Robe|587|804000
+Armor/B Grade/Robe|588|804000
+Armor/B Grade/Robe|590|804000
+Armor/B Grade/Robe|591|804000
+Armor/B Grade/Robe|2480|804000
+Armor/B Grade/Robe|2481|804000
+Armor/B Grade/Robe|2486|804000
+Armor/B Grade/Robe|5720|804000
+Armor/B Grade/Robe|5724|804000
+Armor/B Grade/Robe|5736|804000
+Armor/B Grade/Robe|5740|804000
+Armor/B Grade/Robe|2402|973000
+Armor/B Grade/Robe|474|1510000
+Armor/B Grade/Robe|475|1510000
+Armor/B Grade/Robe|477|1510000
+Armor/B Grade/Robe|478|1510000
+Armor/B Grade/Robe|479|1510000
+Armor/B Grade/Robe|481|1510000
+Armor/B Grade/Robe|482|1510000
+Armor/B Grade/Robe|484|1510000
+Armor/B Grade/Robe|2403|1510000
+Armor/B Grade/Robe|2404|1510000
+Armor/B Grade/Robe|2397|1560000
+Armor/B Grade/Robe|476|2170000
+Armor/B Grade/Robe|480|2170000
+Armor/B Grade/Robe|483|2170000
+Armor/B Grade/Robe|2406|2280000
+Armor/B Grade/Robe|443|2410000
+Armor/B Grade/Robe|445|2410000
+Armor/B Grade/Robe|447|2410000
+Armor/B Grade/Robe|449|2410000
+Armor/B Grade/Robe|451|2410000
+Armor/B Grade/Robe|453|2410000
+Armor/B Grade/Robe|455|2410000
+Armor/B Grade/Robe|457|2410000
+Armor/B Grade/Robe|2398|2410000
+Armor/B Grade/Robe|2399|2410000
+Armor/B Grade/Robe|446|3470000
+Armor/B Grade/Robe|452|3470000
+Armor/B Grade/Robe|456|3470000
+Armor/B Grade/Robe|444|5080000
+Armor/B Grade/Robe|448|5080000
+Armor/B Grade/Robe|450|5080000
+Armor/B Grade/Robe|454|5080000
+Armor/B Grade/Robe|458|5080000
+Armor/B Grade/Light|572|519000
+Armor/B Grade/Light|574|519000
+Armor/B Grade/Light|576|519000
+Armor/B Grade/Light|578|519000
+Armor/B Grade/Light|2465|519000
+Armor/B Grade/Light|2466|519000
+Armor/B Grade/Light|5711|519000
+Armor/B Grade/Light|5715|519000
+Armor/B Grade/Light|5727|519000
+Armor/B Grade/Light|5731|519000
+Armor/B Grade/Light|577|804000
+Armor/B Grade/Light|579|804000
+Armor/B Grade/Light|5719|804000
+Armor/B Grade/Light|5723|804000
+Armor/B Grade/Light|5735|804000
+Armor/B Grade/Light|5739|804000
+Armor/B Grade/Light|2388|973000
+Armor/B Grade/Light|521|1210000
+Armor/B Grade/Light|523|1210000
+Armor/B Grade/Light|525|1210000
+Armor/B Grade/Light|527|1210000
+Armor/B Grade/Light|2416|1210000
+Armor/B Grade/Light|2417|1210000
+Armor/B Grade/Light|421|1510000
+Armor/B Grade/Light|423|1510000
+Armor/B Grade/Light|522|1740000
+Armor/B Grade/Light|524|1740000
+Armor/B Grade/Light|526|1740000
+Armor/B Grade/Light|528|1740000
+Armor/B Grade/Light|422|2170000
+Armor/B Grade/Light|424|2170000
+Armor/B Grade/Light|2390|2280000
+Armor/B Grade/Light|404|2410000
+Armor/B Grade/Light|408|2410000
+Armor/B Grade/Light|405|3470000
+Armor/B Grade/Light|409|3470000
+Armor/B Grade/Light|402|3530000
+Armor/B Grade/Light|406|3530000
+Armor/B Grade/Light|2391|3530000
+Armor/B Grade/Light|2392|3530000
+Armor/B Grade/Light|403|5080000
+Armor/B Grade/Light|407|5080000
+Armor/B Grade/Heavy|556|519000
+Armor/B Grade/Heavy|558|519000
+Armor/B Grade/Heavy|560|519000
+Armor/B Grade/Heavy|562|519000
+Armor/B Grade/Heavy|566|519000
+Armor/B Grade/Heavy|570|519000
+Armor/B Grade/Heavy|610|519000
+Armor/B Grade/Heavy|5710|519000
+Armor/B Grade/Heavy|5714|519000
+Armor/B Grade/Heavy|5726|519000
+Armor/B Grade/Heavy|5730|519000
+Armor/B Grade/Heavy|503|778000
+Armor/B Grade/Heavy|557|804000
+Armor/B Grade/Heavy|559|804000
+Armor/B Grade/Heavy|564|804000
+Armor/B Grade/Heavy|565|804000
+Armor/B Grade/Heavy|567|804000
+Armor/B Grade/Heavy|569|804000
+Armor/B Grade/Heavy|571|804000
+Armor/B Grade/Heavy|611|804000
+Armor/B Grade/Heavy|2485|804000
+Armor/B Grade/Heavy|5718|804000
+Armor/B Grade/Heavy|5722|804000
+Armor/B Grade/Heavy|5734|804000
+Armor/B Grade/Heavy|5738|804000
+Armor/B Grade/Heavy|501|1030000
+Armor/B Grade/Heavy|596|1160000
+Armor/B Grade/Heavy|597|1160000
+Armor/B Grade/Heavy|599|1160000
+Armor/B Grade/Heavy|602|1160000
+Armor/B Grade/Heavy|505|1210000
+Armor/B Grade/Heavy|507|1210000
+Armor/B Grade/Heavy|511|1210000
+Armor/B Grade/Heavy|513|1210000
+Armor/B Grade/Heavy|519|1210000
+Armor/B Grade/Heavy|383|1300000
+Armor/B Grade/Heavy|2379|1300000
+Armor/B Grade/Heavy|506|1740000
+Armor/B Grade/Heavy|508|1740000
+Armor/B Grade/Heavy|514|1740000
+Armor/B Grade/Heavy|384|2010000
+Armor/B Grade/Heavy|385|2010000
+Armor/B Grade/Heavy|387|2010000
+Armor/B Grade/Heavy|2380|2010000
+Armor/B Grade/Heavy|357|2080000
+Armor/B Grade/Heavy|2376|2080000
+Armor/B Grade/Heavy|386|2890000
+Armor/B Grade/Heavy|358|3220000
+Armor/B Grade/Heavy|360|3220000
+Armor/B Grade/Heavy|364|3220000
+Armor/B Grade/Heavy|361|4630000
+Armor/B Grade/Heavy|362|4710000
+Armor/B Grade/Heavy|366|4710000
+Armor/B Grade/Heavy|368|4710000
+Armor/B Grade/Heavy|370|4710000
+Armor/B Grade/Heavy|372|4710000
+Armor/B Grade/Heavy|2381|4710000
+Armor/B Grade/Heavy|359|6770000
+Armor/B Grade/Heavy|363|6770000
+Armor/B Grade/Heavy|367|6770000
+Armor/B Grade/Heavy|369|6770000
+Armor/B Grade/Heavy|371|6770000
+Armor/B Grade/Heavy|373|6770000
+Armor/B Grade/Shields|104|545000
+Armor/B Grade/Shields|105|545000
+Armor/B Grade/Shields|109|545000
+Armor/B Grade/Shields|111|545000
+Armor/B Grade/Shields|633|545000
+Armor/B Grade/Shields|635|545000
+Armor/B Grade/Shields|638|545000
+Armor/B Grade/Shields|640|545000
+Armor/B Grade/Shields|642|545000
+Armor/B Grade/Shields|645|545000
+Armor/B Grade/Shields|646|545000
+Armor/B Grade/Shields|648|545000
+Armor/B Grade/Shields|650|545000
+Armor/B Grade/Shields|652|545000
+Armor/B Grade/Shields|654|545000
+Armor/B Grade/Shields|656|545000
+Armor/B Grade/Shields|659|545000
+Armor/B Grade/Shields|661|545000
+Armor/B Grade/Shields|663|545000
+Armor/B Grade/Shields|665|545000
+Armor/B Grade/Shields|667|545000
+Armor/B Grade/Shields|669|545000
+Armor/B Grade/Shields|671|545000
+Armor/B Grade/Shields|673|545000
+Armor/B Grade/Shields|106|649800
+Armor/B Grade/Shields|108|845000
+Armor/B Grade/Shields|110|845000
+Armor/B Grade/Shields|636|845000
+Armor/B Grade/Shields|637|845000
+Armor/B Grade/Shields|639|845000
+Armor/B Grade/Shields|643|845000
+Armor/B Grade/Shields|644|845000
+Armor/B Grade/Shields|647|845000
+Armor/B Grade/Shields|649|845000
+Armor/B Grade/Shields|651|845000
+Armor/B Grade/Shields|653|845000
+Armor/B Grade/Shields|655|845000
+Armor/B Grade/Shields|657|845000
+Armor/B Grade/Shields|658|845000
+Armor/B Grade/Shields|660|845000
+Armor/B Grade/Shields|662|845000
+Armor/B Grade/Shields|664|845000
+Armor/B Grade/Shields|666|845000
+Armor/B Grade/Shields|668|845000
+Armor/B Grade/Shields|670|845000
+Armor/B Grade/Shields|672|845000
+Armor/B Grade/Shields|674|845000
+Armor/A Grade/Robe|7868|1157000
+Armor/A Grade/Robe|7869|1157000
+Armor/A Grade/Robe|592|1160000
+Armor/A Grade/Robe|2488|1160000
+Armor/A Grade/Robe|2489|1160000
+Armor/A Grade/Robe|5767|1160000
+Armor/A Grade/Robe|5770|1160000
+Armor/A Grade/Robe|5779|1160000
+Armor/A Grade/Robe|5782|1160000
+Armor/A Grade/Robe|547|1740000
+Armor/A Grade/Robe|589|1760000
+Armor/A Grade/Robe|593|1760000
+Armor/A Grade/Robe|2442|1760000
+Armor/A Grade/Robe|2470|1760000
+Armor/A Grade/Robe|2474|1760000
+Armor/A Grade/Robe|2484|1760000
+Armor/A Grade/Robe|5773|1760000
+Armor/A Grade/Robe|5776|1760000
+Armor/A Grade/Robe|5785|1760000
+Armor/A Grade/Robe|5788|1760000
+Armor/A Grade/Robe|2405|2170000
+Armor/A Grade/Robe|2419|2640000
+Armor/A Grade/Robe|2400|3470000
+Armor/A Grade/Robe|2407|5080000
+Armor/A Grade/Robe|7867|5643300
+Armor/A Grade/Robe|459|7730000
+Armor/A Grade/Robe|2408|7730000
+Armor/A Grade/Robe|2409|7730000
+Armor/A Grade/Light|7865|1157000
+Armor/A Grade/Light|7866|1157000
+Armor/A Grade/Light|573|1160000
+Armor/A Grade/Light|575|1160000
+Armor/A Grade/Light|2469|1160000
+Armor/A Grade/Light|2472|1160000
+Armor/A Grade/Light|2478|1160000
+Armor/A Grade/Light|2483|1160000
+Armor/A Grade/Light|5766|1160000
+Armor/A Grade/Light|5769|1160000
+Armor/A Grade/Light|5778|1160000
+Armor/A Grade/Light|5781|1160000
+Armor/A Grade/Light|2440|1760000
+Armor/A Grade/Light|2441|1760000
+Armor/A Grade/Light|2471|1760000
+Armor/A Grade/Light|2479|1760000
+Armor/A Grade/Light|2482|1760000
+Armor/A Grade/Light|5772|1760000
+Armor/A Grade/Light|5775|1760000
+Armor/A Grade/Light|5784|1760000
+Armor/A Grade/Light|5787|1760000
+Armor/A Grade/Light|2389|2170000
+Armor/A Grade/Light|2418|2640000
+Armor/A Grade/Light|2385|3470000
+Armor/A Grade/Light|2393|5080000
+Armor/A Grade/Light|7864|5643300
+Armor/A Grade/Light|410|7730000
+Armor/A Grade/Light|2394|7730000
+Armor/A Grade/Light|2395|7730000
+Armor/A Grade/Heavy|7862|1157000
+Armor/A Grade/Heavy|7863|1157000
+Armor/A Grade/Heavy|561|1160000
+Armor/A Grade/Heavy|563|1160000
+Armor/A Grade/Heavy|598|1160000
+Armor/A Grade/Heavy|5765|1160000
+Armor/A Grade/Heavy|5768|1160000
+Armor/A Grade/Heavy|5777|1160000
+Armor/A Grade/Heavy|5780|1160000
+Armor/A Grade/Heavy|502|1560000
+Armor/A Grade/Heavy|7860|1736800
+Armor/A Grade/Heavy|512|1740000
+Armor/A Grade/Heavy|555|1760000
+Armor/A Grade/Heavy|583|1760000
+Armor/A Grade/Heavy|613|1760000
+Armor/A Grade/Heavy|2445|1760000
+Armor/A Grade/Heavy|5771|1760000
+Armor/A Grade/Heavy|5774|1760000
+Armor/A Grade/Heavy|5783|1760000
+Armor/A Grade/Heavy|5786|1760000
+Armor/A Grade/Heavy|509|2040000
+Armor/A Grade/Heavy|515|2040000
+Armor/A Grade/Heavy|510|2640000
+Armor/A Grade/Heavy|516|2640000
+Armor/A Grade/Heavy|518|2640000
+Armor/A Grade/Heavy|520|2640000
+Armor/A Grade/Heavy|388|2890000
+Armor/A Grade/Heavy|365|4630000
+Armor/A Grade/Heavy|2382|6770000
+Armor/A Grade/Heavy|7861|7524400
+Armor/A Grade/Heavy|374|10300000
+Armor/A Grade/Heavy|2383|10300000
+Armor/A Grade/Shields|641|1220000
+Armor/A Grade/Shields|2498|1850000
+Armor/S Grade/Robe|2444|2390000
+Armor/S Grade/Robe|2473|2390000
+Armor/S Grade/Robe|6384|3580000
+Armor/S Grade/Robe|6385|3580000
+Armor/S Grade/Robe|2421|3590000
+Armor/S Grade/Robe|6386|5370000
+Armor/S Grade/Robe|460|10500000
+Armor/S Grade/Robe|6383|17400000
+Armor/S Grade/Light|2443|2390000
+Armor/S Grade/Light|2477|2390000
+Armor/S Grade/Light|6380|3580000
+Armor/S Grade/Light|6381|3580000
+Armor/S Grade/Light|2420|3590000
+Armor/S Grade/Light|6382|5370000
+Armor/S Grade/Light|411|10500000
+Armor/S Grade/Light|6379|17400000
+Armor/S Grade/Heavy|2476|2610000
+Armor/S Grade/Heavy|6375|3580000
+Armor/S Grade/Heavy|6376|3580000
+Armor/S Grade/Heavy|504|3590000
+Armor/S Grade/Heavy|6378|5370000
+Armor/S Grade/Heavy|389|5980000
+Armor/S Grade/Heavy|6374|8960000
+Armor/S Grade/Heavy|375|10500000
+Armor/S Grade/Heavy|6373|14300000
+Armor/S Grade/Shields|634|2510000
+Armor/S Grade/Shields|6377|3760000
+Jewelry/No Grade|116|33
+Jewelry/No Grade|112|49
+Jewelry/No Grade|118|66
+Jewelry/No Grade|1506|66
+Jewelry/No Grade|875|540
+Jewelry/No Grade|113|811
+Jewelry/No Grade|906|1080
+Jewelry/No Grade|876|2340
+Jewelry/No Grade|1508|2340
+Jewelry/No Grade|1509|2340
+Jewelry/No Grade|114|3510
+Jewelry/No Grade|115|3510
+Jewelry/No Grade|907|4680
+Jewelry/No Grade|1507|4680
+Jewelry/No Grade|877|5920
+Jewelry/No Grade|845|8890
+Jewelry/No Grade|878|10700
+Jewelry/No Grade|908|11900
+Jewelry/No Grade|846|16000
+Jewelry/No Grade|909|21300
+Jewelry/D Grade|890|18000
+Jewelry/D Grade|847|26900
+Jewelry/D Grade|879|28400
+Jewelry/D Grade|910|35900
+Jewelry/D Grade|848|42600
+Jewelry/D Grade|880|42800
+Jewelry/D Grade|911|56800
+Jewelry/D Grade|881|62300
+Jewelry/D Grade|849|64300
+Jewelry/D Grade|882|80800
+Jewelry/D Grade|912|85700
+Jewelry/D Grade|850|93400
+Jewelry/D Grade|851|121000
+Jewelry/D Grade|913|125000
+Jewelry/D Grade|914|162000
+Jewelry/C Grade|883|103000
+Jewelry/C Grade|884|130000
+Jewelry/C Grade|852|155000
+Jewelry/C Grade|853|196000
+Jewelry/C Grade|885|196000
+Jewelry/C Grade|915|207000
+Jewelry/C Grade|916|261000
+Jewelry/C Grade|886|282000
+Jewelry/C Grade|888|282000
+Jewelry/C Grade|854|295000
+Jewelry/C Grade|917|393000
+Jewelry/C Grade|855|424000
+Jewelry/C Grade|857|424000
+Jewelry/C Grade|119|565000
+Jewelry/C Grade|919|565000
+Jewelry/B Grade|117|404000
+Jewelry/B Grade|887|404000
+Jewelry/B Grade|894|404000
+Jewelry/B Grade|896|404000
+Jewelry/B Grade|900|404000
+Jewelry/B Grade|904|404000
+Jewelry/B Grade|905|404000
+Jewelry/B Grade|856|606000
+Jewelry/B Grade|859|606000
+Jewelry/B Grade|863|606000
+Jewelry/B Grade|865|606000
+Jewelry/B Grade|869|606000
+Jewelry/B Grade|873|606000
+Jewelry/B Grade|874|606000
+Jewelry/B Grade|891|616000
+Jewelry/B Grade|892|616000
+Jewelry/B Grade|895|616000
+Jewelry/B Grade|897|616000
+Jewelry/B Grade|898|616000
+Jewelry/B Grade|901|616000
+Jewelry/B Grade|918|808000
+Jewelry/B Grade|921|808000
+Jewelry/B Grade|925|808000
+Jewelry/B Grade|927|808000
+Jewelry/B Grade|931|808000
+Jewelry/B Grade|935|808000
+Jewelry/B Grade|936|808000
+Jewelry/B Grade|860|924000
+Jewelry/B Grade|861|924000
+Jewelry/B Grade|864|924000
+Jewelry/B Grade|866|924000
+Jewelry/B Grade|867|924000
+Jewelry/B Grade|870|924000
+Jewelry/B Grade|922|1230000
+Jewelry/B Grade|923|1230000
+Jewelry/B Grade|926|1230000
+Jewelry/B Grade|928|1230000
+Jewelry/B Grade|929|1230000
+Jewelry/B Grade|932|1230000
+Jewelry/A Grade|899|1300000
+Jewelry/A Grade|902|1300000
+Jewelry/A Grade|903|1300000
+Jewelry/A Grade|893|1730000
+Jewelry/A Grade|868|1950000
+Jewelry/A Grade|871|1950000
+Jewelry/A Grade|872|1950000
+Jewelry/A Grade|862|2590000
+Jewelry/A Grade|930|2600000
+Jewelry/A Grade|933|2600000
+Jewelry/A Grade|934|2600000
+Jewelry/A Grade|924|3450000
+Jewelry/S Grade|889|2960000
+Jewelry/S Grade|858|4440000
+Jewelry/S Grade|920|5920000
+Jewelry/Raid Boss Jewels|6656|3700000
+Jewelry/Raid Boss Jewels|6657|4940000
+Jewelry/Raid Boss Jewels|6658|1730000
+Jewelry/Raid Boss Jewels|6659|2590000
+Jewelry/Raid Boss Jewels|6660|616000
+Jewelry/Raid Boss Jewels|6661|1300000
+Jewelry/Raid Boss Jewels|6662|870000
+Jewelry/Raid Boss Jewels|8191|4485000
+Consumables/Shots|1835|7
+Consumables/Shots|1463|10
+Consumables/Shots|1464|15
+Consumables/Shots|1465|50
+Consumables/Shots|1466|80
+Consumables/Shots|1467|100
+Consumables/Shots|2509|15
+Consumables/Shots|2510|18
+Consumables/Shots|2511|35
+Consumables/Shots|2512|100
+Consumables/Shots|2513|120
+Consumables/Shots|2514|150
+Consumables/Shots|3947|35
+Consumables/Shots|3948|45
+Consumables/Shots|3949|90
+Consumables/Shots|3950|245
+Consumables/Shots|3951|290
+Consumables/Shots|3952|350
+Consumables/Potions and Elixirs|1060|90
+Consumables/Potions and Elixirs|1061|330
+Consumables/Potions and Elixirs|1539|900
+Consumables/Potions and Elixirs|1540|10000
+Consumables/Potions and Elixirs|728|2000
+Consumables/Potions and Elixirs|5591|200
+Consumables/Potions and Elixirs|5592|500
+Consumables/Potions and Elixirs|8622|1300
+Consumables/Potions and Elixirs|8623|3450
+Consumables/Potions and Elixirs|8624|7200
+Consumables/Potions and Elixirs|8625|10000
+Consumables/Potions and Elixirs|8626|12500
+Consumables/Potions and Elixirs|8627|15000
+Consumables/Potions and Elixirs|8628|1400
+Consumables/Potions and Elixirs|8629|3400
+Consumables/Potions and Elixirs|8630|8700
+Consumables/Potions and Elixirs|8631|11600
+Consumables/Potions and Elixirs|8632|14400
+Consumables/Potions and Elixirs|8633|16800
+Consumables/Potions and Elixirs|8634|600
+Consumables/Potions and Elixirs|8635|1400
+Consumables/Potions and Elixirs|8636|3000
+Consumables/Potions and Elixirs|8637|4000
+Consumables/Potions and Elixirs|8638|5000
+Consumables/Potions and Elixirs|8639|6000
+Consumables/Scrolls, Crystals and Gemstones|736|400
+Consumables/Scrolls, Crystals and Gemstones|1538|150000
+Consumables/Scrolls, Crystals and Gemstones|5858|100000
+Consumables/Scrolls, Crystals and Gemstones|5859|80000
+Consumables/Scrolls, Crystals and Gemstones|737|2000
+Consumables/Scrolls, Crystals and Gemstones|3936|400000
+Consumables/Scrolls, Crystals and Gemstones|1458|650
+Consumables/Scrolls, Crystals and Gemstones|1459|3000
+Consumables/Scrolls, Crystals and Gemstones|1460|9000
+Consumables/Scrolls, Crystals and Gemstones|1461|15000
+Consumables/Scrolls, Crystals and Gemstones|1462|25000
+Consumables/Scrolls, Crystals and Gemstones|2130|1000
+Consumables/Scrolls, Crystals and Gemstones|2131|3000
+Consumables/Scrolls, Crystals and Gemstones|2132|10000
+Consumables/Scrolls, Crystals and Gemstones|2133|30000
+Consumables/Scrolls, Crystals and Gemstones|2134|100000
+Consumables/Enchanting Supplies/Normal Scrolls|955|50000
+Consumables/Enchanting Supplies/Normal Scrolls|956|6000
+Consumables/Enchanting Supplies/Normal Scrolls|951|110000
+Consumables/Enchanting Supplies/Normal Scrolls|952|15000
+Consumables/Enchanting Supplies/Normal Scrolls|947|500000
+Consumables/Enchanting Supplies/Normal Scrolls|948|80000
+Consumables/Enchanting Supplies/Normal Scrolls|729|1800000
+Consumables/Enchanting Supplies/Normal Scrolls|730|240000
+Consumables/Enchanting Supplies/Normal Scrolls|959|5000000
+Consumables/Enchanting Supplies/Normal Scrolls|960|500000
+Consumables/Enchanting Supplies/Blessed Scrolls|6575|900000
+Consumables/Enchanting Supplies/Blessed Scrolls|6576|100000
+Consumables/Enchanting Supplies/Blessed Scrolls|6573|3000000
+Consumables/Enchanting Supplies/Blessed Scrolls|6574|350000
+Consumables/Enchanting Supplies/Blessed Scrolls|6571|7000000
+Consumables/Enchanting Supplies/Blessed Scrolls|6572|750000
+Consumables/Enchanting Supplies/Blessed Scrolls|6569|15000000
+Consumables/Enchanting Supplies/Blessed Scrolls|6570|1800000
+Consumables/Enchanting Supplies/Blessed Scrolls|6577|30000000
+Consumables/Enchanting Supplies/Blessed Scrolls|6578|4500000
+Consumables/Enchanting Supplies/Crystal Scrolls|957|150000
+Consumables/Enchanting Supplies/Crystal Scrolls|958|18000
+Consumables/Enchanting Supplies/Crystal Scrolls|953|330000
+Consumables/Enchanting Supplies/Crystal Scrolls|954|45000
+Consumables/Enchanting Supplies/Crystal Scrolls|949|1500000
+Consumables/Enchanting Supplies/Crystal Scrolls|950|240000
+Consumables/Enchanting Supplies/Crystal Scrolls|731|5400000
+Consumables/Enchanting Supplies/Crystal Scrolls|732|720000
+Consumables/Enchanting Supplies/Crystal Scrolls|961|15000000
+Consumables/Enchanting Supplies/Crystal Scrolls|962|1500000
+Consumables/Dyes/STR Dyes|4553|5000
+Consumables/Dyes/STR Dyes|4554|5000
+Consumables/Dyes/STR Dyes|4445|5100
+Consumables/Dyes/STR Dyes|4446|5100
+Consumables/Dyes/STR Dyes|4589|6000
+Consumables/Dyes/STR Dyes|4590|6000
+Consumables/Dyes/STR Dyes|4601|9000
+Consumables/Dyes/STR Dyes|4602|9000
+Consumables/Dyes/STR Dyes|4457|12000
+Consumables/Dyes/STR Dyes|4458|12000
+Consumables/Dyes/STR Dyes|4481|12000
+Consumables/Dyes/STR Dyes|4482|12000
+Consumables/Dyes/STR Dyes|4613|14500
+Consumables/Dyes/STR Dyes|4614|14500
+Consumables/Dyes/STR Dyes|4493|21000
+Consumables/Dyes/STR Dyes|4494|21000
+Consumables/Dyes/STR Dyes|4505|24600
+Consumables/Dyes/STR Dyes|4506|24600
+Consumables/Dyes/STR Dyes|4517|27000
+Consumables/Dyes/STR Dyes|4518|27000
+Consumables/Dyes/STR Dyes|4529|30000
+Consumables/Dyes/STR Dyes|4530|30000
+Consumables/Dyes/STR Dyes|4541|30000
+Consumables/Dyes/STR Dyes|4542|30000
+Consumables/Dyes/STR Dyes|4469|35000
+Consumables/Dyes/STR Dyes|4470|35000
+Consumables/Dyes/STR Dyes|4565|36000
+Consumables/Dyes/STR Dyes|4566|36000
+Consumables/Dyes/STR Dyes|4577|36000
+Consumables/Dyes/STR Dyes|4578|36000
+Consumables/Dyes/CON Dyes|4555|5000
+Consumables/Dyes/CON Dyes|4556|5000
+Consumables/Dyes/CON Dyes|4447|5100
+Consumables/Dyes/CON Dyes|4448|5100
+Consumables/Dyes/CON Dyes|4591|6000
+Consumables/Dyes/CON Dyes|4592|6000
+Consumables/Dyes/CON Dyes|4603|9000
+Consumables/Dyes/CON Dyes|4604|9000
+Consumables/Dyes/CON Dyes|4459|12000
+Consumables/Dyes/CON Dyes|4460|12000
+Consumables/Dyes/CON Dyes|4483|12000
+Consumables/Dyes/CON Dyes|4484|12000
+Consumables/Dyes/CON Dyes|4615|14500
+Consumables/Dyes/CON Dyes|4616|14500
+Consumables/Dyes/CON Dyes|4495|21000
+Consumables/Dyes/CON Dyes|4496|21000
+Consumables/Dyes/CON Dyes|4507|24600
+Consumables/Dyes/CON Dyes|4508|24600
+Consumables/Dyes/CON Dyes|4519|27000
+Consumables/Dyes/CON Dyes|4520|27000
+Consumables/Dyes/CON Dyes|4531|30000
+Consumables/Dyes/CON Dyes|4532|30000
+Consumables/Dyes/CON Dyes|4543|30000
+Consumables/Dyes/CON Dyes|4544|30000
+Consumables/Dyes/CON Dyes|4471|35000
+Consumables/Dyes/CON Dyes|4472|35000
+Consumables/Dyes/CON Dyes|4567|36000
+Consumables/Dyes/CON Dyes|4568|36000
+Consumables/Dyes/CON Dyes|4579|36000
+Consumables/Dyes/CON Dyes|4580|36000
+Consumables/Dyes/DEX Dyes|4557|5000
+Consumables/Dyes/DEX Dyes|4558|5000
+Consumables/Dyes/DEX Dyes|4449|5100
+Consumables/Dyes/DEX Dyes|4450|5100
+Consumables/Dyes/DEX Dyes|4593|6000
+Consumables/Dyes/DEX Dyes|4594|6000
+Consumables/Dyes/DEX Dyes|4605|9000
+Consumables/Dyes/DEX Dyes|4606|9000
+Consumables/Dyes/DEX Dyes|4461|12000
+Consumables/Dyes/DEX Dyes|4462|12000
+Consumables/Dyes/DEX Dyes|4485|12000
+Consumables/Dyes/DEX Dyes|4486|12000
+Consumables/Dyes/DEX Dyes|4617|14500
+Consumables/Dyes/DEX Dyes|4618|14500
+Consumables/Dyes/DEX Dyes|4497|21000
+Consumables/Dyes/DEX Dyes|4498|21000
+Consumables/Dyes/DEX Dyes|4509|24600
+Consumables/Dyes/DEX Dyes|4510|24600
+Consumables/Dyes/DEX Dyes|4521|27000
+Consumables/Dyes/DEX Dyes|4522|27000
+Consumables/Dyes/DEX Dyes|4533|30000
+Consumables/Dyes/DEX Dyes|4534|30000
+Consumables/Dyes/DEX Dyes|4545|30000
+Consumables/Dyes/DEX Dyes|4546|30000
+Consumables/Dyes/DEX Dyes|4473|35000
+Consumables/Dyes/DEX Dyes|4474|35000
+Consumables/Dyes/DEX Dyes|4569|36000
+Consumables/Dyes/DEX Dyes|4570|36000
+Consumables/Dyes/DEX Dyes|4581|36000
+Consumables/Dyes/DEX Dyes|4582|36000
+Consumables/Dyes/INT Dyes|4559|5000
+Consumables/Dyes/INT Dyes|4560|5000
+Consumables/Dyes/INT Dyes|4451|5100
+Consumables/Dyes/INT Dyes|4452|5100
+Consumables/Dyes/INT Dyes|4595|6000
+Consumables/Dyes/INT Dyes|4596|6000
+Consumables/Dyes/INT Dyes|4607|9000
+Consumables/Dyes/INT Dyes|4608|9000
+Consumables/Dyes/INT Dyes|4463|12000
+Consumables/Dyes/INT Dyes|4464|12000
+Consumables/Dyes/INT Dyes|4487|12000
+Consumables/Dyes/INT Dyes|4488|12000
+Consumables/Dyes/INT Dyes|4619|14500
+Consumables/Dyes/INT Dyes|4620|14500
+Consumables/Dyes/INT Dyes|4499|21000
+Consumables/Dyes/INT Dyes|4500|21000
+Consumables/Dyes/INT Dyes|4511|24600
+Consumables/Dyes/INT Dyes|4512|24600
+Consumables/Dyes/INT Dyes|4523|27000
+Consumables/Dyes/INT Dyes|4524|27000
+Consumables/Dyes/INT Dyes|4535|30000
+Consumables/Dyes/INT Dyes|4536|30000
+Consumables/Dyes/INT Dyes|4547|30000
+Consumables/Dyes/INT Dyes|4548|30000
+Consumables/Dyes/INT Dyes|4475|35000
+Consumables/Dyes/INT Dyes|4476|35000
+Consumables/Dyes/INT Dyes|4571|36000
+Consumables/Dyes/INT Dyes|4572|36000
+Consumables/Dyes/INT Dyes|4583|36000
+Consumables/Dyes/INT Dyes|4584|36000
+Consumables/Dyes/MEN Dyes|4561|5000
+Consumables/Dyes/MEN Dyes|4562|5000
+Consumables/Dyes/MEN Dyes|4453|5100
+Consumables/Dyes/MEN Dyes|4454|5100
+Consumables/Dyes/MEN Dyes|4597|6000
+Consumables/Dyes/MEN Dyes|4598|6000
+Consumables/Dyes/MEN Dyes|4609|9000
+Consumables/Dyes/MEN Dyes|4610|9000
+Consumables/Dyes/MEN Dyes|4465|12000
+Consumables/Dyes/MEN Dyes|4466|12000
+Consumables/Dyes/MEN Dyes|4489|12000
+Consumables/Dyes/MEN Dyes|4490|12000
+Consumables/Dyes/MEN Dyes|4621|14500
+Consumables/Dyes/MEN Dyes|4622|14500
+Consumables/Dyes/MEN Dyes|4501|21000
+Consumables/Dyes/MEN Dyes|4502|21000
+Consumables/Dyes/MEN Dyes|4513|24600
+Consumables/Dyes/MEN Dyes|4514|24600
+Consumables/Dyes/MEN Dyes|4525|27000
+Consumables/Dyes/MEN Dyes|4526|27000
+Consumables/Dyes/MEN Dyes|4537|30000
+Consumables/Dyes/MEN Dyes|4538|30000
+Consumables/Dyes/MEN Dyes|4549|30000
+Consumables/Dyes/MEN Dyes|4550|30000
+Consumables/Dyes/MEN Dyes|4477|35000
+Consumables/Dyes/MEN Dyes|4478|35000
+Consumables/Dyes/MEN Dyes|4573|36000
+Consumables/Dyes/MEN Dyes|4574|36000
+Consumables/Dyes/MEN Dyes|4585|36000
+Consumables/Dyes/MEN Dyes|4586|36000
+Consumables/Dyes/WIT Dyes|4563|5000
+Consumables/Dyes/WIT Dyes|4564|5000
+Consumables/Dyes/WIT Dyes|4455|5100
+Consumables/Dyes/WIT Dyes|4456|5100
+Consumables/Dyes/WIT Dyes|4599|6000
+Consumables/Dyes/WIT Dyes|4600|6000
+Consumables/Dyes/WIT Dyes|4611|9000
+Consumables/Dyes/WIT Dyes|4612|9000
+Consumables/Dyes/WIT Dyes|4467|12000
+Consumables/Dyes/WIT Dyes|4468|12000
+Consumables/Dyes/WIT Dyes|4491|12000
+Consumables/Dyes/WIT Dyes|4492|12000
+Consumables/Dyes/WIT Dyes|4623|14500
+Consumables/Dyes/WIT Dyes|4624|14500
+Consumables/Dyes/WIT Dyes|4503|21000
+Consumables/Dyes/WIT Dyes|4504|21000
+Consumables/Dyes/WIT Dyes|4515|24600
+Consumables/Dyes/WIT Dyes|4516|24600
+Consumables/Dyes/WIT Dyes|4527|27000
+Consumables/Dyes/WIT Dyes|4528|27000
+Consumables/Dyes/WIT Dyes|4539|30000
+Consumables/Dyes/WIT Dyes|4540|30000
+Consumables/Dyes/WIT Dyes|4551|30000
+Consumables/Dyes/WIT Dyes|4552|30000
+Consumables/Dyes/WIT Dyes|4479|35000
+Consumables/Dyes/WIT Dyes|4480|35000
+Consumables/Dyes/WIT Dyes|4575|36000
+Consumables/Dyes/WIT Dyes|4576|36000
+Consumables/Dyes/WIT Dyes|4587|36000
+Consumables/Dyes/WIT Dyes|4588|36000
+Consumables/Special Augment Supplies/Life Stones|8723|5000
+Consumables/Special Augment Supplies/Life Stones|8724|6000
+Consumables/Special Augment Supplies/Life Stones|8725|7200
+Consumables/Special Augment Supplies/Life Stones|8726|8640
+Consumables/Special Augment Supplies/Life Stones|8727|10000
+Consumables/Special Augment Supplies/Life Stones|8728|12000
+Consumables/Special Augment Supplies/Life Stones|8729|15000
+Consumables/Special Augment Supplies/Life Stones|8730|18000
+Consumables/Special Augment Supplies/Life Stones|8731|21600
+Consumables/Special Augment Supplies/Life Stones|8732|24000
+Consumables/Special Augment Supplies/Mid-Grade Life Stones|8733|20000
+Consumables/Special Augment Supplies/Mid-Grade Life Stones|8734|24000
+Consumables/Special Augment Supplies/Mid-Grade Life Stones|8735|28800
+Consumables/Special Augment Supplies/Mid-Grade Life Stones|8736|34560
+Consumables/Special Augment Supplies/Mid-Grade Life Stones|8737|40000
+Consumables/Special Augment Supplies/Mid-Grade Life Stones|8738|48000
+Consumables/Special Augment Supplies/Mid-Grade Life Stones|8739|60000
+Consumables/Special Augment Supplies/Mid-Grade Life Stones|8740|72000
+Consumables/Special Augment Supplies/Mid-Grade Life Stones|8741|86400
+Consumables/Special Augment Supplies/Mid-Grade Life Stones|8742|96000
+Consumables/Special Augment Supplies/High-Grade Life Stones|8743|200000
+Consumables/Special Augment Supplies/High-Grade Life Stones|8744|240000
+Consumables/Special Augment Supplies/High-Grade Life Stones|8745|288000
+Consumables/Special Augment Supplies/High-Grade Life Stones|8746|345600
+Consumables/Special Augment Supplies/High-Grade Life Stones|8747|400000
+Consumables/Special Augment Supplies/High-Grade Life Stones|8748|480000
+Consumables/Special Augment Supplies/High-Grade Life Stones|8749|600000
+Consumables/Special Augment Supplies/High-Grade Life Stones|8750|720000
+Consumables/Special Augment Supplies/High-Grade Life Stones|8751|864000
+Consumables/Special Augment Supplies/High-Grade Life Stones|8752|960000
+Consumables/Special Augment Supplies/Top-Grade Life Stones|8753|1000000
+Consumables/Special Augment Supplies/Top-Grade Life Stones|8754|1200000
+Consumables/Special Augment Supplies/Top-Grade Life Stones|8755|1440000
+Consumables/Special Augment Supplies/Top-Grade Life Stones|8756|1728000
+Consumables/Special Augment Supplies/Top-Grade Life Stones|8757|2000000
+Consumables/Special Augment Supplies/Top-Grade Life Stones|8758|2400000
+Consumables/Special Augment Supplies/Top-Grade Life Stones|8759|3000000
+Consumables/Special Augment Supplies/Top-Grade Life Stones|8760|3600000
+Consumables/Special Augment Supplies/Top-Grade Life Stones|8761|4320000
+Consumables/Special Augment Supplies/Top-Grade Life Stones|8762|4800000
+Accessories/Hair and Face|5808|500000
+Accessories/Hair and Face|6394|500000
+Accessories/Formal Wear|6408|5000000
+Accessories/Hair and Face|6834|500000
+Accessories/Hair and Face|6835|500000
+Accessories/Hair and Face|6836|500000
+Accessories/Hair and Face|6837|500000
+Accessories/Hair and Face|6838|500000
+Accessories/Hair and Face|6839|500000
+Accessories/Hair and Face|6840|500000
+Accessories/Hair and Face|6841|500000
+Accessories/Hair and Face|6843|500000
+Accessories/Hair and Face|6844|500000
+Accessories/Hair and Face|6845|500000
+Accessories/Hair and Face|6846|500000
+Accessories/Hair and Face|7059|500000
+Accessories/Hair and Face|7060|500000
+Accessories/Hair and Face|7680|500000
+Accessories/Hair and Face|7681|500000
+Accessories/Hair and Face|7682|500000
+Accessories/Hair and Face|7683|500000
+Accessories/Hair and Face|7694|500000
+Accessories/Hair and Face|7695|500000
+Accessories/Hair and Face|7696|500000
+Accessories/Hats and Headgear|7836|2000000
+Accessories/Hair and Face|7837|500000
+Accessories/Hair and Face|7839|500000
+Accessories/Hair and Face|7840|500000
+Accessories/Hair and Face|7841|500000
+Accessories/Hair and Face|7843|500000
+Accessories/Hair and Face|7847|500000
+Accessories/Hair and Face|8177|500000
+Accessories/Hair and Face|8178|500000
+Accessories/Hair and Face|8179|500000
+Accessories/Hair and Face|8180|500000
+Accessories/Hair and Face|8181|500000
+Accessories/Hair and Face|8182|500000
+Accessories/Hair and Face|8183|500000
+Accessories/Hats and Headgear|8184|2000000
+Accessories/Hats and Headgear|8185|2000000
+Accessories/Hats and Headgear|8186|2000000
+Accessories/Hair and Face|8187|500000
+Accessories/Hair and Face|8188|500000
+Accessories/Hair and Face|8189|500000
+Accessories/Hair and Face|8552|500000
+Accessories/Hats and Headgear|8557|2000000
+Accessories/Hats and Headgear|8559|2000000
+Accessories/Hats and Headgear|8560|500000
+Accessories/Hats and Headgear|8561|500000
+Accessories/Hats and Headgear|8562|500000
+Accessories/Hats and Headgear|8563|500000
+Accessories/Hats and Headgear|8564|500000
+Accessories/Hats and Headgear|8565|500000
+Accessories/Hats and Headgear|8566|2000000
+Accessories/Hair and Face|8567|500000
+Accessories/Hair and Face|8568|500000
+Accessories/Hair and Face|8569|500000
+Accessories/Hats and Headgear|8910|2000000
+Accessories/Hair and Face|8912|500000
+Accessories/Hair and Face|8913|500000
+Accessories/Hats and Headgear|8914|500000
+Accessories/Hats and Headgear|8915|500000
+Accessories/Hair and Face|8916|500000
+Accessories/Hats and Headgear|8917|500000
+Accessories/Hats and Headgear|8918|2000000
+Accessories/Hats and Headgear|8919|2000000
+Accessories/Hats and Headgear|8920|500000
+Accessories/Hats and Headgear|8921|500000
+Accessories/Hats and Headgear|8922|2000000
+Accessories/Hair and Face|8923|500000
+Accessories/Hats and Headgear|8936|2000000
+Accessories/Hats and Headgear|9158|2000000
+Accessories/Hats and Headgear|9159|2000000
+Accessories/Hats and Headgear|9160|2000000
+Accessories/Other|5590|350000

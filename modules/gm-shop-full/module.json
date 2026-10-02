@@ -1,0 +1,17 @@
+{
+  "id": "gm-shop-full",
+  "name": "GM Shop Full",
+  "version": "2.0.0",
+  "apiVersion": "1",
+  "entrypoint": "modules.gmshopfull.GmShopFullModule",
+  "description": "Adds a Giran merchant with a menu: weapons, armor and jewelry by grade, raid boss jewels, and consumables with enchant and augment supplies.",
+  "author": "Sateriok",
+  "priority": 100,
+  "resources": {
+    "npcs": ["data/npcs"],
+    "spawns": ["data/spawns"]
+  },
+  "reserves": {
+    "npcs": [[59930, 59939]]
+  }
+}

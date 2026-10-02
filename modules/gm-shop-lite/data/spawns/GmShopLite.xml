@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list enabled="true">
+	<!-- Giran, at the spot chosen in game. To move it: stand where you want the NPC,
+	     type /loc in game, and edit x y z heading. -->
+	<spawn name="GmShopLite">
+		<npc id="59920" x="82196" y="148664" z="-3464" heading="61312" respawnDelay="60" />
+	</spawn>
+</list>

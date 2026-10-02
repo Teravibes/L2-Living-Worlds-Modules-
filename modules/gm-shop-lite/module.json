@@ -1,0 +1,17 @@
+{
+  "id": "gm-shop-lite",
+  "name": "GM Shop Lite",
+  "version": "2.0.0",
+  "apiVersion": "1",
+  "entrypoint": "modules.gmshoplite.GmShopLiteModule",
+  "description": "Adds a Giran merchant that sells shots, everyday consumables and cosmetic accessories.",
+  "author": "Sateriok",
+  "priority": 100,
+  "resources": {
+    "npcs": ["data/npcs"],
+    "spawns": ["data/spawns"]
+  },
+  "reserves": {
+    "npcs": [[59920, 59929]]
+  }
+}

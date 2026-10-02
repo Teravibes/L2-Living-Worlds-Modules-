@@ -1,5 +1,14 @@
 [
   {
+    "id": "bot-control",
+    "folder": "bot-control",
+    "name": "Bot Control Menu",
+    "version": "1.0.0",
+    "author": "justneedair",
+    "apiVersion": "1",
+    "description": "HTML menu that sends party-chat commands to Living World phantoms when a button is pressed"
+  },
+  {
     "id": "buff-limits",
     "folder": "buff-limits",
     "name": "Buff Limits",
@@ -16,6 +25,24 @@
     "author": "Sateriok",
     "apiVersion": "1",
     "description": "Adds a class master NPC that changes a player's profession at levels 20, 40 and 76, with an adena price for each change."
+  },
+  {
+    "id": "gm-shop-full",
+    "folder": "gm-shop-full",
+    "name": "GM Shop Full",
+    "version": "2.0.0",
+    "author": "Sateriok",
+    "apiVersion": "1",
+    "description": "Adds a Giran merchant with a menu: weapons, armor and jewelry by grade, raid boss jewels, and consumables with enchant and augment supplies."
+  },
+  {
+    "id": "gm-shop-lite",
+    "folder": "gm-shop-lite",
+    "name": "GM Shop Lite",
+    "version": "2.0.0",
+    "author": "Sateriok",
+    "apiVersion": "1",
+    "description": "Adds a Giran merchant that sells shots, everyday consumables and cosmetic accessories."
   },
   {
     "id": "preset-buffer",

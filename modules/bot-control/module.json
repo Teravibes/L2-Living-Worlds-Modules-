@@ -1,0 +1,9 @@
+{
+  "id": "bot-control",
+  "name": "Bot Control Menu",
+  "version": "1.0.0",
+  "apiVersion": "1",
+  "entrypoint": "modules.botcontrol.BotControlModule",
+  "description": "HTML menu that sends party-chat commands to Living World phantoms when a button is pressed",
+  "author": "justneedair"
+}
