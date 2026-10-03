@@ -19,6 +19,7 @@ No server rebuild is needed to turn a feature on or off, only a restart.
 | [Bot Summon Menus](modules/bot-summon) | 1.0.0 | justneedair | Three voiced menus (.lfclass, .lfrole, .lfbuff) that shout LF for one bot at a time. |
 | [Buff Limits](modules/buff-limits) | 1.2.0 | Sateriok | Sets 2-hour durations on buffer-NPC buffs and on perma-uptime class self buffs like War Cry. Burst skills such as Frenzy are untouched. Applied in memory at startup; no files edited. |
 | [Class Master](modules/class-master) | 1.0.0 | Sateriok | Adds a class master NPC that changes a player's profession at levels 20, 40 and 76, with an adena price for each change. |
+| [Craft Master](modules/craft-master) | 1.0.0 | Sateriok | Adds a Craft Master NPC that crafts any item at a 100% success rate when you bring the recipe item and the normal materials. The recipe item is used up. |
 | [Craft Master (No Recipe)](modules/craft-master-free) | 1.0.0 | Sateriok | Adds a Craft Master NPC that crafts any item in the game at a 100% success rate from materials alone, no recipe needed. |
 | [GM Shop Full](modules/gm-shop-full) | 2.0.0 | Sateriok | Adds a Giran merchant with a menu: weapons, armor and jewelry by grade, raid boss jewels, and consumables with enchant and augment supplies. |
 | [GM Shop Lite](modules/gm-shop-lite) | 2.0.0 | Sateriok | Adds a Giran merchant that sells shots, everyday consumables and cosmetic accessories. |

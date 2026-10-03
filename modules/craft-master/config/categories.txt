@@ -1,0 +1,693 @@
+# ProductItemId|Menu/Path|Name (name is for humans only). Edit paths to move items between menus.
+9|Weapons/No Grade/Blunt Weapons|Cedar Staff
+87|Weapons/No Grade/Blunt Weapons|Iron Hammer
+8|Weapons/No Grade/Blunt Weapons|Willow Staff
+14|Weapons/No Grade/Bows|Bow
+273|Weapons/No Grade/Bows|Composite Bow
+272|Weapons/No Grade/Bows|Forest Bow
+216|Weapons/No Grade/Daggers|Dirk
+219|Weapons/No Grade/Daggers|Sword Breaker
+15|Weapons/No Grade/Polearms|Short Spear
+1333|Weapons/No Grade/Swords|Brandish
+3|Weapons/No Grade/Swords|Broadsword
+120|Weapons/No Grade/Swords|Sword of Reflection
+187|Weapons/D Grade/Blunt Weapons|Atuba Hammer
+190|Weapons/D Grade/Blunt Weapons|Atuba Mace
+159|Weapons/D Grade/Blunt Weapons|Bonebreaker
+184|Weapons/D Grade/Blunt Weapons|Conjuror's Staff
+188|Weapons/D Grade/Blunt Weapons|Ghost Staff
+90|Weapons/D Grade/Blunt Weapons|Goat Head Staff
+172|Weapons/D Grade/Blunt Weapons|Heavy Bone Club
+180|Weapons/D Grade/Blunt Weapons|Mace of Judgment
+88|Weapons/D Grade/Blunt Weapons|Morning Star
+7890|Weapons/D Grade/Blunt Weapons|Priest Mace
+169|Weapons/D Grade/Blunt Weapons|Skull Breaker
+157|Weapons/D Grade/Blunt Weapons|Spiked Club
+189|Weapons/D Grade/Blunt Weapons|Staff of Life
+158|Weapons/D Grade/Blunt Weapons|Tarbar
+7896|Weapons/D Grade/Blunt Weapons|Titan Hammer
+276|Weapons/D Grade/Bows|Elven Bow
+278|Weapons/D Grade/Bows|Gastraphetes
+280|Weapons/D Grade/Bows|Light Crossbow
+279|Weapons/D Grade/Bows|Reinforced Long Bow
+221|Weapons/D Grade/Daggers|Assassin Knife
+1660|Weapons/D Grade/Daggers|Cursed Maingauche
+224|Weapons/D Grade/Daggers|Maingauche
+225|Weapons/D Grade/Daggers|Mithril Dagger
+241|Weapons/D Grade/Daggers|Shilen Knife
+261|Weapons/D Grade/Fist Weapons|Bich'Hwa
+262|Weapons/D Grade/Fist Weapons|Scallop Jamadhr
+323|Weapons/D Grade/Other|Ancient Reagent
+320|Weapons/D Grade/Other|Blue Crystal Skull
+318|Weapons/D Grade/Other|Crucifix of Blood
+321|Weapons/D Grade/Other|Demon Fangs
+319|Weapons/D Grade/Other|Eye of Infinity
+313|Weapons/D Grade/Other|Temptation of Abyss
+317|Weapons/D Grade/Other|Tome of Blood
+322|Weapons/D Grade/Other|Vajra Wands
+295|Weapons/D Grade/Polearms|Dwarven Trident
+297|Weapons/D Grade/Polearms|Glaive
+291|Weapons/D Grade/Polearms|Trident
+294|Weapons/D Grade/Polearms|War Pick
+93|Weapons/D Grade/Polearms|Winged Spear
+70|Weapons/D Grade/Swords|Claymore
+2499|Weapons/D Grade/Swords|Elven Long Sword
+5285|Weapons/D Grade/Swords|Heavy Sword
+7885|Weapons/D Grade/Swords|Priest Sword
+123|Weapons/D Grade/Swords|Saber
+125|Weapons/D Grade/Swords|Spinebone Sword
+7880|Weapons/D Grade/Swords|Steel Sword
+7886|Weapons/D Grade/Swords|Sword of Magic Fog
+129|Weapons/D Grade/Swords|Sword of Revolution
+7881|Weapons/D Grade/Swords|Titan Sword
+124|Weapons/D Grade/Swords|Two-Handed Sword
+160|Weapons/C Grade/Blunt Weapons|Battle Axe
+89|Weapons/C Grade/Blunt Weapons|Big Hammer
+201|Weapons/C Grade/Blunt Weapons|Club of Nature
+192|Weapons/C Grade/Blunt Weapons|Crystal Staff
+195|Weapons/C Grade/Blunt Weapons|Cursed Staff
+204|Weapons/C Grade/Blunt Weapons|Deadman's Staff
+206|Weapons/C Grade/Blunt Weapons|Demon's Staff
+7897|Weapons/C Grade/Blunt Weapons|Dwarven Hammer
+2502|Weapons/C Grade/Blunt Weapons|Dwarven War Hammer
+7891|Weapons/C Grade/Blunt Weapons|Ecliptic Axe
+205|Weapons/C Grade/Blunt Weapons|Ghoul's Staff
+194|Weapons/C Grade/Blunt Weapons|Heavy Doom Axe
+191|Weapons/C Grade/Blunt Weapons|Heavy Doom Hammer
+198|Weapons/C Grade/Blunt Weapons|Inferno Staff
+7898|Weapons/C Grade/Blunt Weapons|Karik Horn
+202|Weapons/C Grade/Blunt Weapons|Mace of Underworld
+174|Weapons/C Grade/Blunt Weapons|Nirvana Axe
+203|Weapons/C Grade/Blunt Weapons|Pa'agrian Axe
+199|Weapons/C Grade/Blunt Weapons|Pa'agrian Hammer
+197|Weapons/C Grade/Blunt Weapons|Paradia Staff
+200|Weapons/C Grade/Blunt Weapons|Sage's Staff
+161|Weapons/C Grade/Blunt Weapons|Silver Axe
+173|Weapons/C Grade/Blunt Weapons|Skull Graver
+196|Weapons/C Grade/Blunt Weapons|Stick of Eternity
+193|Weapons/C Grade/Blunt Weapons|Stick of Faith
+162|Weapons/C Grade/Blunt Weapons|War Axe
+2503|Weapons/C Grade/Blunt Weapons|Yaksa Mace
+283|Weapons/C Grade/Bows|Akat Long Bow
+281|Weapons/C Grade/Bows|Crystallized Ice Bow
+282|Weapons/C Grade/Bows|Elemental Bow
+286|Weapons/C Grade/Bows|Eminence Bow
+285|Weapons/C Grade/Bows|Noble Elven Bow
+228|Weapons/C Grade/Daggers|Crystal Dagger
+226|Weapons/C Grade/Daggers|Cursed Dagger
+232|Weapons/C Grade/Daggers|Dark Elven Dagger
+233|Weapons/C Grade/Daggers|Dark Screamer
+231|Weapons/C Grade/Daggers|Grace Dagger
+242|Weapons/C Grade/Daggers|Soulfire Dirk
+227|Weapons/C Grade/Daggers|Stiletto
+230|Weapons/C Grade/Daggers|Wolverine Needle
+263|Weapons/C Grade/Fist Weapons|Chakram
+265|Weapons/C Grade/Fist Weapons|Fisted Blade
+266|Weapons/C Grade/Fist Weapons|Great Pata
+4233|Weapons/C Grade/Fist Weapons|Knuckle Duster
+329|Weapons/C Grade/Other|Blessed Branch
+328|Weapons/C Grade/Other|Candle of Wisdom
+331|Weapons/C Grade/Other|Cerberus Eye
+333|Weapons/C Grade/Other|Claws of Black Dragon
+326|Weapons/C Grade/Other|Heathen's Book
+327|Weapons/C Grade/Other|Hex Doll
+325|Weapons/C Grade/Other|Horn of Glory
+330|Weapons/C Grade/Other|Phoenix Feather
+332|Weapons/C Grade/Other|Scroll of Destruction
+324|Weapons/C Grade/Other|Tears of Fairy
+334|Weapons/C Grade/Other|Three Eyed Crow's Feather
+94|Weapons/C Grade/Polearms|Bec de Corbin
+302|Weapons/C Grade/Polearms|Body Slasher
+298|Weapons/C Grade/Polearms|Orcish Glaive
+299|Weapons/C Grade/Polearms|Orcish Poleaxe
+95|Weapons/C Grade/Polearms|Poleaxe
+301|Weapons/C Grade/Polearms|Scorpion
+96|Weapons/C Grade/Polearms|Scythe
+303|Weapons/C Grade/Polearms|Widow Maker
+5286|Weapons/C Grade/Swords|Berserker Blade
+75|Weapons/C Grade/Swords|Caliburs
+7888|Weapons/C Grade/Swords|Ecliptic Sword
+71|Weapons/C Grade/Swords|Flamberge
+84|Weapons/C Grade/Swords|Homunkulus's Sword
+74|Weapons/C Grade/Swords|Katana
+7887|Weapons/C Grade/Swords|Mysterious Sword
+7882|Weapons/C Grade/Swords|Pa'agrian Sword
+133|Weapons/C Grade/Swords|Raid Sword
+135|Weapons/C Grade/Swords|Samurai Longsword
+73|Weapons/C Grade/Swords|Shamshir
+131|Weapons/C Grade/Swords|Spirit Sword
+72|Weapons/C Grade/Swords|Stormbringer
+76|Weapons/C Grade/Swords|Sword of Delusion
+132|Weapons/C Grade/Swords|Sword of Limit
+134|Weapons/C Grade/Swords|Sword of Nightmare
+145|Weapons/C Grade/Swords|Sword of Whispering Death
+77|Weapons/C Grade/Swords|Tsurugi
+175|Weapons/B Grade/Blunt Weapons|Art of Battle Axe
+171|Weapons/B Grade/Blunt Weapons|Deadman's Glory
+91|Weapons/B Grade/Blunt Weapons|Heavy War Axe
+7900|Weapons/B Grade/Blunt Weapons|Ice Storm Hammer
+7893|Weapons/B Grade/Blunt Weapons|Kaim Vanul's Bones
+7892|Weapons/B Grade/Blunt Weapons|Spell Breaker
+92|Weapons/B Grade/Blunt Weapons|Sprite's Staff
+210|Weapons/B Grade/Blunt Weapons|Staff of Evil Spirits
+7901|Weapons/B Grade/Blunt Weapons|Star Buster
+287|Weapons/B Grade/Bows|Bow of Peril
+284|Weapons/B Grade/Bows|Dark Elven Long Bow
+234|Weapons/B Grade/Daggers|Demon's Dagger
+243|Weapons/B Grade/Daggers|Hell Knife
+229|Weapons/B Grade/Daggers|Kris
+267|Weapons/B Grade/Fist Weapons|Arthro Nail
+268|Weapons/B Grade/Fist Weapons|Bellion Cestus
+264|Weapons/B Grade/Fist Weapons|Pata
+300|Weapons/B Grade/Polearms|Great Axe
+97|Weapons/B Grade/Polearms|Lance
+78|Weapons/B Grade/Swords|Great Sword
+7883|Weapons/B Grade/Swords|Guardian Sword
+142|Weapons/B Grade/Swords|Keshanberk
+79|Weapons/B Grade/Swords|Sword of Damascus
+148|Weapons/B Grade/Swords|Sword of Valhalla
+7889|Weapons/B Grade/Swords|Wizard's Tear
+8680|Weapons/A Grade/Blunt Weapons|Barakiel's Axe
+8681|Weapons/A Grade/Blunt Weapons|Behemoth's Tuning Fork
+213|Weapons/A Grade/Blunt Weapons|Branch of the Mother Tree
+8687|Weapons/A Grade/Blunt Weapons|Cabrio's Hand
+8688|Weapons/A Grade/Blunt Weapons|Daimon Crystal
+212|Weapons/A Grade/Blunt Weapons|Dasparion's Staff
+7899|Weapons/A Grade/Blunt Weapons|Destroyer Hammer
+7902|Weapons/A Grade/Blunt Weapons|Doom Crusher
+164|Weapons/A Grade/Blunt Weapons|Elysian
+7895|Weapons/A Grade/Blunt Weapons|Flaming Dragon Skull
+2504|Weapons/A Grade/Blunt Weapons|Meteor Shower
+7894|Weapons/A Grade/Blunt Weapons|Spiritual Eye
+288|Weapons/A Grade/Bows|Carnage Bow
+8684|Weapons/A Grade/Bows|Shyeed's Bow
+289|Weapons/A Grade/Bows|Soul Bow
+235|Weapons/A Grade/Daggers|Bloody Orchid
+8682|Weapons/A Grade/Daggers|Naga Storm
+236|Weapons/A Grade/Daggers|Soul Separator
+269|Weapons/A Grade/Fist Weapons|Blood Tornado
+270|Weapons/A Grade/Fist Weapons|Dragon Grinder
+8685|Weapons/A Grade/Fist Weapons|Sobekk's Hurricane
+98|Weapons/A Grade/Polearms|Halberd
+305|Weapons/A Grade/Polearms|Tallum Glaive
+8683|Weapons/A Grade/Polearms|Tiphon's Spear
+2500|Weapons/A Grade/Swords|Dark Legion's Edge
+81|Weapons/A Grade/Swords|Dragon Slayer
+150|Weapons/A Grade/Swords|Elemental Sword
+7884|Weapons/A Grade/Swords|Infernal Master
+8678|Weapons/A Grade/Swords|Sirra's Blade
+8679|Weapons/A Grade/Swords|Sword of Ipos
+151|Weapons/A Grade/Swords|Sword of Miracles
+80|Weapons/A Grade/Swords|Tallum Blade
+8686|Weapons/A Grade/Swords|Themis' Tongue
+6579|Weapons/S Grade/Blunt Weapons|Arcana Mace
+6365|Weapons/S Grade/Blunt Weapons|Basalt Battlehammer
+6369|Weapons/S Grade/Blunt Weapons|Dragon Hunter Axe
+6366|Weapons/S Grade/Blunt Weapons|Imperial Staff
+7575|Weapons/S Grade/Bows|Draconic Bow
+6368|Weapons/S Grade/Bows|Shining Bow
+6367|Weapons/S Grade/Daggers|Angel Slayer
+6371|Weapons/S Grade/Fist Weapons|Demon Splinter
+6370|Weapons/S Grade/Polearms|Saint Spear
+6364|Weapons/S Grade/Swords|Forgotten Blade
+6372|Weapons/S Grade/Swords|Heaven's Divider
+8186|Armor/Hair and Face|Artisan's Goggles
+6843|Armor/Hair and Face|Cat Ears
+7696|Armor/Hair and Face|Daisy Hairpin
+8187|Armor/Hair and Face|Demon Horns
+8189|Armor/Hair and Face|Fairy Antennae
+8185|Armor/Hair and Face|Feathered Hat
+7695|Armor/Hair and Face|Forget-me-not Hairpin
+6844|Armor/Hair and Face|Lady's Hair Pin
+8188|Armor/Hair and Face|Little Angel Wings
+7682|Armor/Hair and Face|Maiden's Hairpin
+6846|Armor/Hair and Face|Monocle
+7681|Armor/Hair and Face|Outlaw's Eyepatch
+8184|Armor/Hair and Face|Party Hat
+5808|Armor/Hair and Face|Party Mask
+6845|Armor/Hair and Face|Pirate's Eye Patch
+7683|Armor/Hair and Face|Rabbit Ears
+7680|Armor/Hair and Face|Raccoon Ears
+39|Armor/No Grade/Boots|Boots
+37|Armor/No Grade/Boots|Leather Shoes
+50|Armor/No Grade/Gloves|Leather Gloves
+25|Armor/No Grade/Heavy Armor|Piece Bone Breastplate
+32|Armor/No Grade/Heavy Armor|Piece Bone Gaiters
+44|Armor/No Grade/Helmets|Leather Helmet
+33|Armor/No Grade/Light Armor|Hard Leather Gaiters
+27|Armor/No Grade/Light Armor|Hard Leather Shirt
+464|Armor/No Grade/Robes|Leather Stockings
+429|Armor/No Grade/Robes|Leather Tunic
+1125|Armor/D Grade/Boots|Assault Boots
+1124|Armor/D Grade/Boots|Boots of Power
+2425|Armor/D Grade/Boots|Brigandine Boots
+2426|Armor/D Grade/Boots|Elven Mithril Boots
+553|Armor/D Grade/Boots|Iron Boots
+40|Armor/D Grade/Boots|Leather Boots
+2424|Armor/D Grade/Boots|Manticore Skin Boots
+2428|Armor/D Grade/Boots|Plate Boots
+2427|Armor/D Grade/Boots|Salamander Skin Boots
+2449|Armor/D Grade/Gloves|Brigandine Gauntlets
+604|Armor/D Grade/Gloves|Crafted Leather Gloves
+2448|Armor/D Grade/Gloves|Manticore Skin Gloves
+2450|Armor/D Grade/Gloves|Mithril Gloves
+61|Armor/D Grade/Gloves|Mithril Plate Gloves
+607|Armor/D Grade/Gloves|Ogre Power Gauntlets
+606|Armor/D Grade/Gloves|Rip Gauntlets
+2451|Armor/D Grade/Gloves|Sage's Worn Gloves
+2378|Armor/D Grade/Heavy Armor|Brigandine Gaiters
+352|Armor/D Grade/Heavy Armor|Brigandine Tunic
+353|Armor/D Grade/Heavy Armor|Half Plate Armor
+2377|Armor/D Grade/Heavy Armor|Mithril Scale Gaiters
+380|Armor/D Grade/Heavy Armor|Plate Gaiters
+377|Armor/D Grade/Heavy Armor|Scale Gaiters
+348|Armor/D Grade/Heavy Armor|Scale Mail
+45|Armor/D Grade/Helmets|Bone Helmet
+2411|Armor/D Grade/Helmets|Brigandine Helmet
+2412|Armor/D Grade/Helmets|Plate Helmet
+417|Armor/D Grade/Light Armor|Manticore Skin Gaiters
+395|Armor/D Grade/Light Armor|Manticore Skin Shirt
+415|Armor/D Grade/Light Armor|Mithril Banded Gaiters
+393|Armor/D Grade/Light Armor|Mithril Banded Mail
+396|Armor/D Grade/Light Armor|Salamander Skin Mail
+467|Armor/D Grade/Robes|Dark Stockings
+2401|Armor/D Grade/Robes|Elven Mithril Stockings
+2396|Armor/D Grade/Robes|Elven Mithril Tunic
+470|Armor/D Grade/Robes|Mithril Stockings
+437|Armor/D Grade/Robes|Mithril Tunic
+438|Armor/D Grade/Robes|Sage's Rag
+434|Armor/D Grade/Robes|White Tunic
+2493|Armor/D Grade/Shields|Brigandine Shield
+629|Armor/D Grade/Shields|Kite Shield
+2494|Armor/D Grade/Shields|Plate Shield
+630|Armor/D Grade/Shields|Square Shield
+1128|Armor/C Grade/Boots|Adamantite Boots
+2433|Armor/C Grade/Boots|Boots of Seal
+2429|Armor/C Grade/Boots|Chain Boots
+64|Armor/C Grade/Boots|Composite Boots
+1126|Armor/C Grade/Boots|Crimson Boots
+2435|Armor/C Grade/Boots|Demon's Boots
+603|Armor/C Grade/Boots|Divine Boots
+2437|Armor/C Grade/Boots|Drake Leather Boots
+2432|Armor/C Grade/Boots|Dwarven Chain Boots
+1127|Armor/C Grade/Boots|Forgotten Boots
+2438|Armor/C Grade/Boots|Full Plate Boots
+2430|Armor/C Grade/Boots|Karmian Boots
+2431|Armor/C Grade/Boots|Plated Leather Boots
+62|Armor/C Grade/Boots|Reinforced Mithril Boots
+2434|Armor/C Grade/Boots|Rind Leather Boots
+2436|Armor/C Grade/Boots|Theca Leather Boots
+2468|Armor/C Grade/Gloves|Blessed Gloves
+2453|Armor/C Grade/Gloves|Chain Gloves
+2459|Armor/C Grade/Gloves|Demon's Gloves
+2463|Armor/C Grade/Gloves|Divine Gloves
+2461|Armor/C Grade/Gloves|Drake Leather Gloves
+2456|Armor/C Grade/Gloves|Dwarven Chain Gloves
+2462|Armor/C Grade/Gloves|Full Plate Gauntlets
+609|Armor/C Grade/Gloves|Gauntlets of Ghost
+2457|Armor/C Grade/Gloves|Gloves of Seal
+2454|Armor/C Grade/Gloves|Karmian Gloves
+608|Armor/C Grade/Gloves|Mithril Gauntlets
+1120|Armor/C Grade/Gloves|Pa'agrian Hand
+2455|Armor/C Grade/Gloves|Plated Leather Gloves
+2452|Armor/C Grade/Gloves|Reinforced Mithril Gloves
+2458|Armor/C Grade/Gloves|Rind Leather Gloves
+2460|Armor/C Grade/Gloves|Theca Leather Gloves
+381|Armor/C Grade/Heavy Armor|Chain Gaiters
+354|Armor/C Grade/Heavy Armor|Chain Mail Shirt
+60|Armor/C Grade/Heavy Armor|Composite Armor
+382|Armor/C Grade/Heavy Armor|Dwarven Chain Gaiters
+355|Armor/C Grade/Heavy Armor|Dwarven Chain Mail Shirt
+356|Armor/C Grade/Heavy Armor|Full Plate Armor
+529|Armor/C Grade/Helmets|Cap of Mana
+497|Armor/C Grade/Helmets|Chain Helmet
+2413|Armor/C Grade/Helmets|Chain Hood
+517|Armor/C Grade/Helmets|Composite Helmet
+537|Armor/C Grade/Helmets|Elemental Hood
+545|Armor/C Grade/Helmets|Flame Helm
+2414|Armor/C Grade/Helmets|Full Plate Helmet
+500|Armor/C Grade/Helmets|Great Helmet
+549|Armor/C Grade/Helmets|Helm of Avadon
+551|Armor/C Grade/Helmets|Helmet of Pledge
+543|Armor/C Grade/Helmets|Hood of Aid
+539|Armor/C Grade/Helmets|Hood of Grace
+533|Armor/C Grade/Helmets|Hood of Solar Eclipse
+535|Armor/C Grade/Helmets|Hood of Summoning
+499|Armor/C Grade/Helmets|Mithril Helmet
+531|Armor/C Grade/Helmets|Paradia Hood
+541|Armor/C Grade/Helmets|Phoenix Hood
+1149|Armor/C Grade/Helmets|Shining Circlet
+498|Armor/C Grade/Helmets|Steel Plate Helmet
+401|Armor/C Grade/Light Armor|Drake Leather Armor
+397|Armor/C Grade/Light Armor|Mithril Shirt
+398|Armor/C Grade/Light Armor|Plated Leather
+418|Armor/C Grade/Light Armor|Plated Leather Gaiters
+2387|Armor/C Grade/Light Armor|Reinforced Mithril Gaiters
+399|Armor/C Grade/Light Armor|Rind Leather Armor
+419|Armor/C Grade/Light Armor|Rind Leather Gaiters
+400|Armor/C Grade/Light Armor|Theca Leather Armor
+420|Armor/C Grade/Light Armor|Theca Leather Gaiters
+472|Armor/C Grade/Robes|Demon's Stockings
+441|Armor/C Grade/Robes|Demon's Tunic
+473|Armor/C Grade/Robes|Divine Stockings
+442|Armor/C Grade/Robes|Divine Tunic
+471|Armor/C Grade/Robes|Karmian Stockings
+439|Armor/C Grade/Robes|Karmian Tunic
+440|Armor/C Grade/Robes|Robe of Seal
+2495|Armor/C Grade/Shields|Chain Shield
+107|Armor/C Grade/Shields|Composite Shield
+2496|Armor/C Grade/Shields|Dwarven Chain Shield
+631|Armor/C Grade/Shields|Eldarake
+2497|Armor/C Grade/Shields|Full Plate Shield
+632|Armor/C Grade/Shields|Knight's Shield
+103|Armor/C Grade/Shields|Tower Shield
+595|Armor/B Grade/Boots|Boots of Blessing
+590|Armor/B Grade/Boots|Boots of Grace
+572|Armor/B Grade/Boots|Boots of Silence
+588|Armor/B Grade/Boots|Elemental Boots
+578|Armor/B Grade/Boots|Guardian's Boots
+564|Armor/B Grade/Boots|Implosion Boots
+582|Armor/B Grade/Boots|Paradia Boots
+600|Armor/B Grade/Boots|Sealed Avadon Boots
+2439|Armor/B Grade/Boots|Sealed Blue Wolf Boots
+601|Armor/B Grade/Boots|Sealed Doom Boots
+554|Armor/B Grade/Boots|Sealed Zubei's Boots
+2465|Armor/B Grade/Gloves|Chain Gloves of Silence
+2480|Armor/B Grade/Gloves|Elemental Gloves
+2467|Armor/B Grade/Gloves|Gloves of Blessing
+2481|Armor/B Grade/Gloves|Gloves of Grace
+2466|Armor/B Grade/Gloves|Guardian's Gloves
+2485|Armor/B Grade/Gloves|Implosion Gauntlets
+2486|Armor/B Grade/Gloves|Paradia Gloves
+2464|Armor/B Grade/Gloves|Sealed Avadon Gloves
+2487|Armor/B Grade/Gloves|Sealed Blue Wolf Gloves
+2475|Armor/B Grade/Gloves|Sealed Doom Gloves
+612|Armor/B Grade/Gloves|Sealed Zubei's Gauntlets
+2376|Armor/B Grade/Heavy Armor|Avadon Breastplate
+2379|Armor/B Grade/Heavy Armor|Avadon Gaiters
+358|Armor/B Grade/Heavy Armor|Blue Wolf Breastplate
+2380|Armor/B Grade/Heavy Armor|Blue Wolf Gaiters
+2381|Armor/B Grade/Heavy Armor|Doom Plate Armor
+357|Armor/B Grade/Heavy Armor|Zubei's Breastplate
+383|Armor/B Grade/Heavy Armor|Zubei's Gaiters
+2415|Armor/B Grade/Helmets|Avadon Circlet
+2416|Armor/B Grade/Helmets|Blue Wolf Helmet
+2417|Armor/B Grade/Helmets|Doom Helmet
+503|Armor/B Grade/Helmets|Zubei's Helmet
+2390|Armor/B Grade/Light Armor|Avadon Leather Armor
+2391|Armor/B Grade/Light Armor|Blue Wolf Leather Armor
+2392|Armor/B Grade/Light Armor|Leather Armor of Doom
+2388|Armor/B Grade/Light Armor|Zubei's Leather Gaiters
+2384|Armor/B Grade/Light Armor|Zubei's Leather Shirt
+2406|Armor/B Grade/Robes|Avadon Robe
+2403|Armor/B Grade/Robes|Blue Wolf Stockings
+2398|Armor/B Grade/Robes|Blue Wolf Tunic
+2404|Armor/B Grade/Robes|Stockings of Doom
+2402|Armor/B Grade/Robes|Stockings of Zubei
+2399|Armor/B Grade/Robes|Tunic of Doom
+2397|Armor/B Grade/Robes|Tunic of Zubei
+673|Armor/B Grade/Shields|Avadon Shield
+110|Armor/B Grade/Shields|Doom Shield
+633|Armor/B Grade/Shields|Zubei's Shield
+5314|Armor/A Grade/Boots|Sealed Boots of Nightmare
+5291|Armor/A Grade/Boots|Sealed Dark Crystal Boots
+5319|Armor/A Grade/Boots|Sealed Majestic Boots
+5296|Armor/A Grade/Boots|Sealed Tallum Boots
+5290|Armor/A Grade/Gloves|Sealed Dark Crystal Gloves
+5313|Armor/A Grade/Gloves|Sealed Gauntlets of Nightmare
+5318|Armor/A Grade/Gloves|Sealed Majestic Gauntlets
+5295|Armor/A Grade/Gloves|Sealed Tallum Gloves
+5311|Armor/A Grade/Heavy Armor|Sealed Armor of Nightmare
+5288|Armor/A Grade/Heavy Armor|Sealed Dark Crystal Gaiters
+5287|Armor/A Grade/Heavy Armor|Sealed Dark Crystal breastplate
+5316|Armor/A Grade/Heavy Armor|Sealed Majestic Plate Armor
+5293|Armor/A Grade/Heavy Armor|Sealed Tallum Plate Armor
+5289|Armor/A Grade/Helmets|Sealed Dark Crystal Helmet
+5312|Armor/A Grade/Helmets|Sealed Helm of Nightmare
+5317|Armor/A Grade/Helmets|Sealed Majestic Circlet
+5294|Armor/A Grade/Helmets|Sealed Tallum Helmet
+5297|Armor/A Grade/Light Armor|Sealed Dark Crystal Leather Armor
+5298|Armor/A Grade/Light Armor|Sealed Dark Crystal Leggings
+5320|Armor/A Grade/Light Armor|Sealed Leather Armor of Nightmare
+5323|Armor/A Grade/Light Armor|Sealed Majestic Leather Armor
+5301|Armor/A Grade/Light Armor|Sealed Tallum Leather Armor
+5308|Armor/A Grade/Robes|Sealed Dark Crystal Robe
+5329|Armor/A Grade/Robes|Sealed Majestic Robe
+5326|Armor/A Grade/Robes|Sealed Robe of Nightmare
+5305|Armor/A Grade/Robes|Sealed Tallum Stockings
+5304|Armor/A Grade/Robes|Sealed Tallum Tunic
+5292|Armor/A Grade/Shields|Sealed Dark Crystal Shield
+5315|Armor/A Grade/Shields|Sealed Shield of Nightmare
+6682|Armor/S Grade/Boots|Sealed Draconic Leather Boots
+6677|Armor/S Grade/Boots|Sealed Imperial Crusader Boots
+6686|Armor/S Grade/Boots|Sealed Major Arcana Boots
+6681|Armor/S Grade/Gloves|Sealed Draconic Leather Glove
+6676|Armor/S Grade/Gloves|Sealed Imperial Crusader Gauntlet
+6685|Armor/S Grade/Gloves|Sealed Major Arcana Glove
+6674|Armor/S Grade/Heavy Armor|Sealed Imperial Crusader Breastplate
+6675|Armor/S Grade/Heavy Armor|Sealed Imperial Crusader Gaiters
+6683|Armor/S Grade/Helmets|Sealed Draconic Leather Helmet
+6679|Armor/S Grade/Helmets|Sealed Imperial Crusader Helmet
+6687|Armor/S Grade/Helmets|Sealed Major Arcana Circlet
+6680|Armor/S Grade/Light Armor|Sealed Draconic Leather Armor
+6684|Armor/S Grade/Robes|Sealed Major Arcana Robe
+6678|Armor/S Grade/Shields|Sealed Imperial Crusader Shield
+909|Jewelry/No Grade|Blue Diamond Necklace
+907|Jewelry/No Grade|Necklace of Anguish
+908|Jewelry/No Grade|Necklace of Wisdom
+850|Jewelry/D Grade|Elven Earring
+913|Jewelry/D Grade|Elven Necklace
+881|Jewelry/D Grade|Elven Ring
+911|Jewelry/D Grade|Enchanted Necklace
+882|Jewelry/D Grade|Mithril Ring
+914|Jewelry/D Grade|Necklace of Darkness
+910|Jewelry/D Grade|Necklace of Devotion
+851|Jewelry/D Grade|Omen Beast's Eye Earring
+849|Jewelry/D Grade|Tiger's Eye Earring
+915|Jewelry/C Grade|Aquastone Necklace
+883|Jewelry/C Grade|Aquastone Ring
+853|Jewelry/C Grade|Earring of Protection
+854|Jewelry/C Grade|Earring of Seal
+852|Jewelry/C Grade|Moonstone Earring
+855|Jewelry/C Grade|Nassen's Earring
+917|Jewelry/C Grade|Necklace of Mermaid
+916|Jewelry/C Grade|Necklace of Protection
+119|Jewelry/C Grade|Necklace of Seal
+885|Jewelry/C Grade|Ring of Ages
+884|Jewelry/C Grade|Ring of Protection
+886|Jewelry/C Grade|Ring of Seal
+856|Jewelry/B Grade|Adamantite Earring
+918|Jewelry/B Grade|Adamantite Necklace
+887|Jewelry/B Grade|Adamantite Ring
+864|Jewelry/B Grade|Earring of Black Ore
+926|Jewelry/B Grade|Necklace of Black Ore
+895|Jewelry/B Grade|Ring of Black Ore
+922|Jewelry/B Grade|Sage's Necklace
+891|Jewelry/B Grade|Sage's Ring
+6327|Jewelry/A Grade|Sealed Majestic Earring
+6326|Jewelry/A Grade|Sealed Majestic Necklace
+6328|Jewelry/A Grade|Sealed Majestic Ring
+6324|Jewelry/A Grade|Sealed Phoenix Earring
+6323|Jewelry/A Grade|Sealed Phoenix Necklace
+6325|Jewelry/A Grade|Sealed Phoenix Ring
+6724|Jewelry/S Grade|Sealed Tateossian Earring
+6726|Jewelry/S Grade|Sealed Tateossian Necklace
+6725|Jewelry/S Grade|Sealed Tateossian Ring
+3136|Consumables/Other|Amber Bead
+1831|Consumables/Potions and Elixirs|Antidote
+1833|Consumables/Potions and Elixirs|Bandage
+9174|Consumables/Other|Black Philosopher's Stone
+3951|Consumables/Shots|Blessed Spiritshot: A-Grade
+3950|Consumables/Shots|Blessed Spiritshot: B-Grade
+3949|Consumables/Shots|Blessed Spiritshot: C-Grade
+3948|Consumables/Shots|Blessed Spiritshot: D-Grade
+3952|Consumables/Shots|Blessed Spiritshot: S Grade
+9172|Consumables/Other|Blue Philosopher's Stone
+1341|Consumables/Arrows|Bone Arrow
+5150|Consumables/Shots|Compressed Package of Blessed Spiritshots: A-grade
+5149|Consumables/Shots|Compressed Package of Blessed Spiritshots: B-grade
+5148|Consumables/Shots|Compressed Package of Blessed Spiritshots: C-grade
+5147|Consumables/Shots|Compressed Package of Blessed Spiritshots: D-grade
+5151|Consumables/Shots|Compressed Package of Blessed Spiritshots: S-grade
+5138|Consumables/Shots|Compressed Package of Soulshots: A-grade
+5137|Consumables/Shots|Compressed Package of Soulshots: B-grade
+5136|Consumables/Shots|Compressed Package of Soulshots: C-grade
+5135|Consumables/Shots|Compressed Package of Soulshots: D-grade
+5139|Consumables/Shots|Compressed Package of Soulshots: S-grade
+5144|Consumables/Shots|Compressed Package of Spiritshots: A-grade
+5143|Consumables/Shots|Compressed Package of Spiritshots: B-grade
+5142|Consumables/Shots|Compressed Package of Spiritshots: C-grade
+5141|Consumables/Shots|Compressed Package of Spiritshots: D-grade
+5145|Consumables/Shots|Compressed Package of Spiritshots: S-grade
+5238|Consumables/Potions and Elixirs|Dye Potion - A
+5239|Consumables/Potions and Elixirs|Dye Potion - B
+5240|Consumables/Potions and Elixirs|Dye Potion - C
+5241|Consumables/Potions and Elixirs|Dye Potion - D
+4472|Consumables/Dyes|Dye of CON (Con+1 Dex-1)
+4471|Consumables/Dyes|Dye of CON (Con+1 Str-1)
+4474|Consumables/Dyes|Dye of DEX (Dex+1 Con-1)
+4473|Consumables/Dyes|Dye of DEX (Dex+1 Str-1)
+4475|Consumables/Dyes|Dye of INT (Int+1 Men-1)
+4476|Consumables/Dyes|Dye of INT (Int+1 Wit-1)
+4477|Consumables/Dyes|Dye of MEN (Men+1 Int-1)
+4478|Consumables/Dyes|Dye of MEN (Men+1 Wit-1)
+4469|Consumables/Dyes|Dye of STR (Str+1 Con-1)
+4470|Consumables/Dyes|Dye of STR (Str+1 Dex-1)
+4479|Consumables/Dyes|Dye of WIT (Wit+1 Int-1)
+4480|Consumables/Dyes|Dye of WIT (Wit+1 Men-1)
+8638|Consumables/Potions and Elixirs|Elixir of CP (A-Grade)
+8637|Consumables/Potions and Elixirs|Elixir of CP (B-Grade)
+8636|Consumables/Potions and Elixirs|Elixir of CP (C-Grade)
+8635|Consumables/Potions and Elixirs|Elixir of CP (D-Grade)
+8634|Consumables/Potions and Elixirs|Elixir of CP (No Grade)
+8639|Consumables/Potions and Elixirs|Elixir of CP (S-Grade)
+8626|Consumables/Potions and Elixirs|Elixir of Life (A-Grade)
+8625|Consumables/Potions and Elixirs|Elixir of Life (B-Grade)
+8624|Consumables/Potions and Elixirs|Elixir of Life (C-Grade)
+8623|Consumables/Potions and Elixirs|Elixir of Life (D-Grade)
+8622|Consumables/Potions and Elixirs|Elixir of Life (No Grade)
+8627|Consumables/Potions and Elixirs|Elixir of Life (S-Grade)
+8632|Consumables/Potions and Elixirs|Elixir of Mental Strength (A-Grade)
+8631|Consumables/Potions and Elixirs|Elixir of Mental Strength (B-Grade)
+8630|Consumables/Potions and Elixirs|Elixir of Mental Strength (C-Grade)
+8629|Consumables/Potions and Elixirs|Elixir of Mental Strength (D-Grade)
+8628|Consumables/Potions and Elixirs|Elixir of Mental Strength (No Grade)
+8633|Consumables/Potions and Elixirs|Elixir of Mental Strength (S-Grade)
+1834|Consumables/Potions and Elixirs|Emergency Dressing
+5235|Consumables/Potions and Elixirs|Facelifting Potion - A
+5236|Consumables/Potions and Elixirs|Facelifting Potion - B
+5237|Consumables/Potions and Elixirs|Facelifting Potion - C
+1342|Consumables/Arrows|Fine Steel Arrow
+1832|Consumables/Potions and Elixirs|Greater Antidote
+5266|Consumables/Shots|Greater Compressed Package of Blessed Spiritshots: A-grade
+5265|Consumables/Shots|Greater Compressed Package of Blessed Spiritshots: B-grade
+5264|Consumables/Shots|Greater Compressed Package of Blessed Spiritshots: C-grade
+5263|Consumables/Shots|Greater Compressed Package of Blessed Spiritshots: D-grade
+5267|Consumables/Shots|Greater Compressed Package of Blessed Spiritshots: S-grade
+5254|Consumables/Shots|Greater Compressed Package of Soulshots: A-grade
+5253|Consumables/Shots|Greater Compressed Package of Soulshots: B-grade
+5252|Consumables/Shots|Greater Compressed Package of Soulshots: C-grade
+5251|Consumables/Shots|Greater Compressed Package of Soulshots: D-grade
+5255|Consumables/Shots|Greater Compressed Package of Soulshots: S-grade
+5260|Consumables/Shots|Greater Compressed Package of Spiritshots: A-grade
+5259|Consumables/Shots|Greater Compressed Package of Spiritshots: B-grade
+5258|Consumables/Shots|Greater Compressed Package of Spiritshots: C-grade
+5257|Consumables/Shots|Greater Compressed Package of Spiritshots: D-grade
+5261|Consumables/Shots|Greater Compressed Package of Spiritshots: S-grade
+4556|Consumables/Dyes|Greater Dye of CON (Con+1 Dex-1)
+4555|Consumables/Dyes|Greater Dye of CON (Con+1 Str-1)
+4592|Consumables/Dyes|Greater Dye of CON (Con+2 Dex-2)
+4591|Consumables/Dyes|Greater Dye of CON (Con+2 Str-2)
+4604|Consumables/Dyes|Greater Dye of CON (Con+3 Dex-3)
+4603|Consumables/Dyes|Greater Dye of CON (Con+3 Str-3)
+4616|Consumables/Dyes|Greater Dye of CON (Con+4 Dex-4)
+4615|Consumables/Dyes|Greater Dye of CON (Con+4 Str-4)
+4558|Consumables/Dyes|Greater Dye of DEX (Dex+1 Con-1)
+4557|Consumables/Dyes|Greater Dye of DEX (Dex+1 Str-1)
+4594|Consumables/Dyes|Greater Dye of DEX (Dex+2 Con-2)
+4593|Consumables/Dyes|Greater Dye of DEX (Dex+2 Str-2)
+4606|Consumables/Dyes|Greater Dye of DEX (Dex+3 Con-3)
+4605|Consumables/Dyes|Greater Dye of DEX (Dex+3 Str-3)
+4618|Consumables/Dyes|Greater Dye of DEX (Dex+4 Con-4)
+4617|Consumables/Dyes|Greater Dye of DEX (Dex+4 Str-4)
+4559|Consumables/Dyes|Greater Dye of INT (Int+1 Men-1)
+4560|Consumables/Dyes|Greater Dye of INT (Int+1 Wit-1)
+4595|Consumables/Dyes|Greater Dye of INT (Int+2 Men-2)
+4596|Consumables/Dyes|Greater Dye of INT (Int+2 Wit-2)
+4607|Consumables/Dyes|Greater Dye of INT (Int+3 Men-3)
+4608|Consumables/Dyes|Greater Dye of INT (Int+3 Wit-3)
+4619|Consumables/Dyes|Greater Dye of INT (Int+4 Men-4)
+4620|Consumables/Dyes|Greater Dye of INT (Int+4 Wit-4)
+4561|Consumables/Dyes|Greater Dye of MEN (Men+1 Int-1)
+4562|Consumables/Dyes|Greater Dye of MEN (Men+1 Wit-1)
+4597|Consumables/Dyes|Greater Dye of MEN (Men+2 Int-2)
+4598|Consumables/Dyes|Greater Dye of MEN (Men+2 Wit-2)
+4609|Consumables/Dyes|Greater Dye of MEN (Men+3 Int-3)
+4610|Consumables/Dyes|Greater Dye of MEN (Men+3 Wit-3)
+4621|Consumables/Dyes|Greater Dye of MEN (Men+4 Int-4)
+4622|Consumables/Dyes|Greater Dye of MEN (Men+4 Wit-4)
+4553|Consumables/Dyes|Greater Dye of STR (Str+1 Con-1)
+4554|Consumables/Dyes|Greater Dye of STR (Str+1 Dex-1)
+4589|Consumables/Dyes|Greater Dye of STR (Str+2 Con-2)
+4590|Consumables/Dyes|Greater Dye of STR (Str+2 Dex-2)
+4601|Consumables/Dyes|Greater Dye of STR (Str+3 Con-3)
+4602|Consumables/Dyes|Greater Dye of STR (Str+3 Dex-3)
+4613|Consumables/Dyes|Greater Dye of STR (Str+4 Con-4)
+4614|Consumables/Dyes|Greater Dye of STR (Str+4 Dex-4)
+4563|Consumables/Dyes|Greater Dye of WIT (Wit+1 Int-1)
+4564|Consumables/Dyes|Greater Dye of WIT (Wit+1 Men-1)
+4599|Consumables/Dyes|Greater Dye of WIT (Wit+2 Int-2)
+4600|Consumables/Dyes|Greater Dye of WIT (Wit+2 Men-2)
+4611|Consumables/Dyes|Greater Dye of WIT (Wit+3 Int-3)
+4612|Consumables/Dyes|Greater Dye of WIT (Wit+3 Men-3)
+4623|Consumables/Dyes|Greater Dye of WIT (Wit+4 Int-4)
+4624|Consumables/Dyes|Greater Dye of WIT (Wit+4 Men-4)
+1374|Consumables/Potions and Elixirs|Greater Haste Potion
+1539|Consumables/Potions and Elixirs|Greater Healing Potion
+6036|Consumables/Potions and Elixirs|Greater Magic Haste Potion
+1375|Consumables/Potions and Elixirs|Greater Swift Attack Potion
+9176|Consumables/Other|Green Philosopher's Stone
+5242|Consumables/Potions and Elixirs|Hair Style Change Potion - A
+5243|Consumables/Potions and Elixirs|Hair Style Change Potion - B
+5244|Consumables/Potions and Elixirs|Hair Style Change Potion - C
+5245|Consumables/Potions and Elixirs|Hair Style Change Potion - D
+5246|Consumables/Potions and Elixirs|Hair Style Change Potion - E
+5247|Consumables/Potions and Elixirs|Hair Style Change Potion - F
+5248|Consumables/Potions and Elixirs|Hair Style Change Potion - G
+734|Consumables/Potions and Elixirs|Haste Potion
+1061|Consumables/Potions and Elixirs|Healing Potion
+3139|Consumables/Other|Journeyman Ring
+3030|Consumables/Other|Key of Titan
+1060|Consumables/Potions and Elixirs|Lesser Healing Potion
+6035|Consumables/Potions and Elixirs|Magic Haste Potion
+1344|Consumables/Arrows|Mithril Arrow
+5234|Consumables/Potions and Elixirs|Mystery Potion
+9173|Consumables/Other|Orange Philosopher's Stone
+735|Consumables/Potions and Elixirs|Potion of Alacrity
+9171|Consumables/Other|Red Philosopher's Stone
+1345|Consumables/Arrows|Shining Arrow
+1343|Consumables/Arrows|Silver Arrow
+1466|Consumables/Shots|Soulshot: A-grade
+1465|Consumables/Shots|Soulshot: B-grade
+1464|Consumables/Shots|Soulshot: C-grade
+1463|Consumables/Shots|Soulshot: D-grade
+1467|Consumables/Shots|Soulshot: S-grade
+2513|Consumables/Shots|Spiritshot: A-grade
+2512|Consumables/Shots|Spiritshot: B-grade
+2511|Consumables/Shots|Spiritshot: C-grade
+2510|Consumables/Shots|Spiritshot: D-grade
+2514|Consumables/Shots|Spiritshot: S-grade
+3846|Consumables/Other|Titan's Powerstone
+9175|Consumables/Other|White Philosopher's Stone
+17|Consumables/Arrows|Wooden Arrow
+5553|Materials|Arcsmith's Anvil
+1891|Materials|Artisan's Frame
+1892|Materials|Blacksmith's Frame
+1878|Materials|Braided Hemp
+1881|Materials|Coarse Bone Powder
+1879|Materials|Cokes
+1889|Materials|Compound Braid
+1884|Materials|Cord
+1894|Materials|Crafted Leather
+4047|Materials|Craftsman Mold
+5550|Materials|Durable Metal Plate
+6909|Materials|Greater Fish Oil
+1885|Materials|High Grade Suede
+1882|Materials|Leather
+5551|Materials|Leolin's Mold
+4046|Materials|Maestro Anvil Lock
+4045|Materials|Maestro Holder
+4048|Materials|Maestro Mold
+5220|Materials|Metal Hardener
+1895|Materials|Metallic Fiber
+5549|Materials|Metallic Thread
+1890|Materials|Mithril Alloy
+1893|Materials|Oriharukon
+6910|Materials|Premium Fish Oil
+1886|Materials|Silver Mold
+1880|Materials|Steel
+1883|Materials|Steel Mold
+1888|Materials|Synthetic Cokes
+1887|Materials|Varnish of Purity
+5554|Materials|Warsmith's Holder
+5552|Materials|Warsmith's Mold
