@@ -36,6 +36,15 @@
     "description": "Adds a class master NPC that changes a player's profession at levels 20, 40 and 76, with an adena price for each change."
   },
   {
+    "id": "craft-master-free",
+    "folder": "craft-master-free",
+    "name": "Craft Master (No Recipe)",
+    "version": "1.0.0",
+    "author": "Sateriok",
+    "apiVersion": "1",
+    "description": "Adds a Craft Master NPC that crafts any item in the game at a 100% success rate from materials alone, no recipe needed."
+  },
+  {
     "id": "gm-shop-full",
     "folder": "gm-shop-full",
     "name": "GM Shop Full",

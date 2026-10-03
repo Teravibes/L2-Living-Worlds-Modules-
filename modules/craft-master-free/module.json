@@ -1,0 +1,26 @@
+{
+  "id": "craft-master-free",
+  "name": "Craft Master (No Recipe)",
+  "version": "1.0.0",
+  "apiVersion": "1",
+  "entrypoint": "modules.craftmasterfree.CraftMasterFreeModule",
+  "description": "Adds a Craft Master NPC that crafts any item in the game at a 100% success rate from materials alone, no recipe needed.",
+  "author": "Sateriok",
+  "priority": 100,
+  "resources": {
+    "npcs": [
+      "data/npcs"
+    ],
+    "spawns": [
+      "data/spawns"
+    ]
+  },
+  "reserves": {
+    "npcs": [
+      [
+        59950,
+        59959
+      ]
+    ]
+  }
+}
